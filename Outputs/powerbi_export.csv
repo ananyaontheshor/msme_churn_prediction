@@ -1,0 +1,1186 @@
+LSP name,Overall SLA Compliance,Pick Up Compliance,Customer Order sequence,Key Accounts,Customer Status for the month,Total Delay Days,Pick up delay Days,Net Revenue,Total Actual Weight (kg),Total goods Invoice Value,churned,churn_probability,predicted_churned,actual_churned,risk_tier
+DELHIVERY,Non-Compliant,1,194.0,Key Account,Retained,10.0,10.0,4454.1,185.0,73185.0,0,0.295,0,0,Low Risk
+GATI,Compliant,0,6.0,Non Key Account,Retained,-1.0,-1.0,3304.8,250.0,203550.0,0,0.452,0,0,Medium Risk
+Unknown,Compliant,0,6.0,Non Key Account,Retained,-1.0,-1.0,763.0,30.0,229038.0,1,0.662,1,1,High Risk
+DELHIVERY,Compliant,0,1.0,Non Key Account,NCA,-3.0,-3.0,2150.0,49.0,24000.0,1,0.595,1,1,Medium Risk
+Unknown,Unknown,2,701.0,Key Account,Retained,0.0,0.0,640.0,50.0,7257.0,1,0.887,1,1,High Risk
+DELHIVERY,Compliant,0,18.0,Non Key Account,Retained,-1.0,-1.0,1806.0,45.0,16999.0,0,0.431,0,0,Medium Risk
+GATI,Compliant,0,26.0,Non Key Account,Retained,-1.0,-1.0,2407.0,201.0,34783.0,0,0.475,0,0,Medium Risk
+DELHIVERY,Compliant,0,19.0,Key Account,NCA,0.0,0.0,1385.0,36.0,10000.0,0,0.298,0,0,Low Risk
+V-XPRESS,Compliant,0,1.0,Non Key Account,NCA,-2.0,-2.0,887.0,25.0,21476.0,1,0.87,1,1,High Risk
+GATI,Compliant,0,14.0,Non Key Account,Re-activated,-1.0,-1.0,2241.0,20.0,46800.0,0,0.577,1,0,Medium Risk
+DELHIVERY,Compliant,0,1.0,Non Key Account,Unknown,0.0,-1.0,741.0,33.0,15930.0,1,0.345,0,1,Medium Risk
+GATI,Non-Compliant,1,183.0,Key Account,Retained,1.0,1.0,1403.0,170.0,35000.0,0,0.4,0,0,Medium Risk
+SCORPION,Compliant,0,2.0,Non Key Account,NCA,0.0,0.0,1963.0,150.0,88749.0,1,0.728,1,1,High Risk
+DELHIVERY,Non-Compliant,1,13.0,Non Key Account,Retained,4.0,4.0,15138.0,955.0,538351.0,0,0.442,0,0,Medium Risk
+Unknown,Non-Compliant,1,61.0,Non Key Account,Retained,4.0,4.0,1635.0,120.0,48628.0,1,0.781,1,1,High Risk
+DELHIVERY,Non-Compliant,1,295.0,Key Account,Retained,5.0,5.0,3067.2,155.0,69376.0,0,0.367,0,0,Medium Risk
+V-XPRESS,Compliant,0,257.0,Key Account,Retained,-2.0,-2.0,3084.3,155.0,69376.0,0,0.625,1,0,High Risk
+GATI,Compliant,0,338.0,Key Account,Retained,-2.0,-2.0,2400.0,250.0,45000.0,0,0.328,0,0,Medium Risk
+SCORPION,Compliant,0,4.0,Non Key Account,Unknown,0.0,-2.0,698.0,30.0,7500.0,0,0.544,1,0,Medium Risk
+SCORPION,Compliant,0,10.0,Key Account,Re-activated,-4.0,-4.0,3080.0,17.0,196800.0,0,0.431,0,0,Medium Risk
+SCORPION,Compliant,0,4.0,Non Key Account,Retained,0.0,0.0,1039.0,90.0,429735.0,0,0.573,1,0,Medium Risk
+GATI,Compliant,0,14.0,Key Account,Retained,0.0,0.0,2249.0,260.0,268800.0,1,0.193,0,1,Low Risk
+GATI,Non-Compliant,1,21.0,Non Key Account,Retained,1.0,1.0,886.0,94.0,185360.0,0,0.617,1,0,High Risk
+DELHIVERY,Compliant,0,17.0,Non Key Account,Retained,-5.0,-5.0,2999.0,20.0,7080.0,1,0.473,0,1,Medium Risk
+DELHIVERY,Compliant,0,151.0,Key Account,Retained,-6.0,-6.0,1729.96,180.0,35400.0,1,0.239,0,1,Low Risk
+SCORPION,Non-Compliant,1,24.0,Non Key Account,Retained,6.0,6.0,754.0,15.0,15500.0,0,0.72,1,0,High Risk
+GATI,Compliant,0,104.0,Non Key Account,Retained,-3.0,-3.0,788.0,55.0,76576.0,1,0.538,1,1,Medium Risk
+GATI,Compliant,0,133.0,Key Account,Retained,-1.0,-1.0,4149.2,350.0,47200.0,1,0.241,0,1,Low Risk
+DELHIVERY,Compliant,0,47.0,Non Key Account,Retained,-2.0,-2.0,2981.0,20.0,20000.0,0,0.462,0,0,Medium Risk
+V-XPRESS,Compliant,0,256.0,Key Account,Retained,-7.0,-7.0,3603.6,155.0,69376.0,0,0.662,1,0,High Risk
+SCORPION,Compliant,0,10.0,Non Key Account,Retained,-1.0,-1.0,571.0,10.0,10343.0,0,0.619,1,0,High Risk
+GATI,Non-Compliant,1,8.0,Key Account,Retained,11.0,11.0,1472.0,19.0,115348.0,0,0.28,0,0,Low Risk
+DELHIVERY,Non-Compliant,1,4.0,Non Key Account,Re-activated,7.0,7.0,6168.6,150.0,106200.0,1,0.604,1,1,High Risk
+Unknown,Non-Compliant,1,28.0,Non Key Account,Retained,8.0,8.0,5345.0,320.0,473918.0,1,0.717,1,1,High Risk
+Unknown,Unknown,2,31.0,Non Key Account,Retained,0.0,0.0,1545.0,130.0,224955.0,1,0.874,1,1,High Risk
+GATI,Non-Compliant,1,571.0,Key Account,Retained,14.0,14.0,738.0,60.0,5000.0,0,0.49,0,0,Medium Risk
+DELHIVERY,Compliant,0,6.0,Key Account,Retained,-3.0,-3.0,1419.0,50.0,20000.0,0,0.194,0,0,Low Risk
+DELHIVERY,Non-Compliant,1,14.0,Key Account,Retained,7.0,7.0,1447.2,165.0,335253.0,0,0.227,0,0,Low Risk
+GATI,Non-Compliant,1,47.0,Key Account,Retained,14.0,14.0,1691.0,50.0,34733.0,0,0.276,0,0,Low Risk
+SCORPION,Non-Compliant,1,5.0,Key Account,NCA,5.0,5.0,1749.0,120.0,613612.0,1,0.548,1,1,Medium Risk
+DELHIVERY,Non-Compliant,1,11.0,Non Key Account,Retained,4.0,4.0,526.0,7.0,1365.0,1,0.551,1,1,Medium Risk
+GATI,Non-Compliant,1,4.0,Non Key Account,Re-activated,7.0,7.0,516.0,10.0,291364.0,1,0.645,1,1,High Risk
+GATI,Compliant,0,9.0,Key Account,Retained,0.0,0.0,2273.0,65.0,790000.0,0,0.192,0,0,Low Risk
+Unknown,Compliant,0,661.0,Key Account,Retained,-3.0,-3.0,2616.0,250.0,35000.0,1,0.664,1,1,High Risk
+GATI,Compliant,0,297.0,Key Account,Retained,0.0,0.0,853.0,50.0,10000.0,0,0.322,0,0,Medium Risk
+DELHIVERY,Non-Compliant,1,3.0,Key Account,NCA,2.0,2.0,677.0,28.0,150000.0,1,0.415,0,1,Medium Risk
+DELHIVERY,Non-Compliant,1,63.0,Key Account,Retained,1.0,1.0,3746.7,220.0,79591.0,0,0.295,0,0,Low Risk
+GATI,Non-Compliant,1,292.0,Key Account,Retained,3.0,3.0,617.0,50.0,10000.0,0,0.45,0,0,Medium Risk
+Unknown,Non-Compliant,1,1.0,Non Key Account,NCA,23.0,23.0,983.0,80.0,35000.0,1,0.773,1,1,High Risk
+SCORPION,Non-Compliant,1,12.0,Non Key Account,Retained,14.0,14.0,2216.0,40.0,29736.0,0,0.666,1,0,High Risk
+DELHIVERY,Compliant,0,2.0,Non Key Account,Unknown,-1.0,-2.0,3620.45,260.0,879041.0,1,0.286,0,1,Low Risk
+Unknown,Compliant,0,84.0,Key Account,Retained,-3.0,-3.0,757.0,20.0,15859.0,1,0.44,0,1,Medium Risk
+GATI,Non-Compliant,1,29.0,Key Account,Re-activated,18.0,18.0,2658.0,20.0,15859.0,0,0.319,0,0,Medium Risk
+SCORPION,Non-Compliant,1,58.0,Key Account,Retained,1.0,1.0,875.84,48.0,21546.0,1,0.491,0,1,Medium Risk
+SCORPION,Compliant,0,8.0,Non Key Account,Retained,0.0,0.0,1215.0,80.0,18000.0,0,0.602,1,0,High Risk
+DELHIVERY,Compliant,0,9.0,Key Account,Retained,0.0,0.0,1211.0,68.0,14998.0,0,0.178,0,0,Low Risk
+GATI,Non-Compliant,1,29.0,Non Key Account,Retained,3.0,3.0,4213.0,300.0,450000.0,0,0.575,1,0,Medium Risk
+DELHIVERY,Compliant,0,2.0,Non Key Account,NCA,-2.0,-2.0,811.0,16.0,16520.0,1,0.587,1,1,Medium Risk
+DELHIVERY,Compliant,0,106.0,Key Account,Retained,-4.0,-4.0,3639.6,185.0,73185.0,0,0.22,0,0,Low Risk
+DELHIVERY,Non-Compliant,1,75.0,Key Account,Retained,7.0,7.0,1876.5,220.0,79591.0,0,0.254,0,0,Low Risk
+DELHIVERY,Compliant,0,4.0,Non Key Account,NCA,-2.0,-2.0,1005.0,85.0,88500.0,0,0.573,1,0,Medium Risk
+GATI,Compliant,0,245.0,Key Account,Retained,-2.0,-2.0,1565.0,200.0,35000.0,0,0.296,0,0,Low Risk
+Unknown,Unknown,2,62.0,Non Key Account,Retained,0.0,0.0,972.0,73.0,70092.0,1,0.887,1,1,High Risk
+GATI,Non-Compliant,1,490.0,Key Account,Retained,1.0,1.0,3835.0,375.0,45000.0,0,0.515,1,0,Medium Risk
+GATI,Non-Compliant,1,23.0,Key Account,Retained,11.0,11.0,1328.0,20.0,34777.0,0,0.289,0,0,Low Risk
+DELHIVERY,Compliant,0,59.0,Key Account,Retained,-2.0,-2.0,886.6,60.0,30000.0,0,0.201,0,0,Low Risk
+GATI,Non-Compliant,1,4.0,Non Key Account,Retained,2.0,2.0,841.0,70.0,34000.0,0,0.616,1,0,High Risk
+DELHIVERY,Non-Compliant,1,2.0,Key Account,NCA,3.0,3.0,4397.0,250.0,383500.0,0,0.378,0,0,Medium Risk
+DELHIVERY,Compliant,0,279.0,Key Account,Retained,-9.0,-9.0,4417.2,155.0,69376.0,0,0.318,0,0,Medium Risk
+SCORPION,Non-Compliant,1,1.0,Non Key Account,NCA,3.0,3.0,879.0,40.0,7000.0,1,0.833,1,1,High Risk
+GATI,Non-Compliant,1,10.0,Non Key Account,Retained,7.0,7.0,1307.2,120.0,25000.0,0,0.576,1,0,Medium Risk
+DELHIVERY,Non-Compliant,1,34.0,Key Account,Retained,10.0,10.0,4117.0,180.0,98000.0,0,0.237,0,0,Low Risk
+DELHIVERY,Compliant,0,3.0,Non Key Account,NCA,-1.0,-1.0,3076.4,50.0,25000.0,1,0.586,1,1,Medium Risk
+V-XPRESS,Unknown,2,33.0,Non Key Account,Retained,0.0,0.0,643.0,14.0,31097.0,1,0.929,1,1,High Risk
+Unknown,Compliant,0,116.0,Key Account,Retained,-3.0,-3.0,2793.12,230.0,49560.0,1,0.429,0,1,Medium Risk
+DELHIVERY,Compliant,0,7.0,Non Key Account,Retained,-3.0,-3.0,755.0,60.0,27500.0,0,0.432,0,0,Medium Risk
+DELHIVERY,Compliant,0,8.0,Non Key Account,Re-activated,0.0,0.0,581.0,40.0,5190.0,1,0.492,0,1,Medium Risk
+SCORPION,Compliant,0,58.0,Key Account,Retained,-3.0,-3.0,3247.2,185.0,73185.0,0,0.351,0,0,Medium Risk
+DELHIVERY,Compliant,0,66.0,Key Account,Retained,-1.0,-1.0,1478.0,65.0,45081.0,0,0.199,0,0,Low Risk
+GATI,Non-Compliant,1,2.0,Non Key Account,Re-activated,2.0,2.0,5474.0,500.0,6000.0,1,0.646,1,1,High Risk
+GATI,Non-Compliant,1,83.0,Non Key Account,Retained,4.0,4.0,885.0,100.0,119180.0,0,0.625,1,0,High Risk
+DELHIVERY,Compliant,0,27.0,Non Key Account,Retained,-1.0,-1.0,2148.0,130.0,552240.0,1,0.39,0,1,Medium Risk
+Unknown,Non-Compliant,1,1.0,Non Key Account,NCA,3.0,3.0,1180.0,150.0,138445.0,1,0.854,1,1,High Risk
+DELHIVERY,Non-Compliant,1,331.0,Key Account,Retained,3.0,3.0,582.36,35.0,20619.0,1,0.405,0,1,Medium Risk
+GATI,Non-Compliant,1,9.0,Non Key Account,Retained,4.0,4.0,11008.0,700.0,44400.0,0,0.555,1,0,Medium Risk
+DELHIVERY,Compliant,0,19.0,Key Account,Retained,-1.0,-1.0,666.0,30.0,6089.0,1,0.188,0,1,Low Risk
+GATI,Non-Compliant,1,13.0,Non Key Account,Retained,1.0,1.0,613.0,10.0,84252.0,1,0.632,1,1,High Risk
+GATI,Compliant,0,234.0,Key Account,Retained,-3.0,-3.0,617.0,50.0,10000.0,0,0.316,0,0,Medium Risk
+SCORPION,Compliant,0,8.0,Non Key Account,Retained,0.0,0.0,763.0,2.0,24413.0,1,0.612,1,1,High Risk
+DELHIVERY,Unknown,2,3.0,Non Key Account,Re-activated,0.0,0.0,1986.0,105.0,6023.0,1,0.776,1,1,High Risk
+DELHIVERY,Compliant,0,1.0,Non Key Account,NCA,-3.0,-3.0,137.0,95.0,15000.0,0,0.577,1,0,Medium Risk
+DELHIVERY,Compliant,0,71.0,Non Key Account,Retained,-3.0,-3.0,633.0,16.0,40592.0,0,0.467,0,0,Medium Risk
+DELHIVERY,Compliant,0,244.0,Key Account,Retained,-8.0,-8.0,3593.7,185.0,73185.0,0,0.29,0,0,Low Risk
+GATI,Non-Compliant,1,15.0,Key Account,Retained,1.0,1.0,38038.0,1060.0,1620000.0,0,0.295,0,0,Low Risk
+GATI,Non-Compliant,1,137.0,Non Key Account,Retained,3.0,3.0,585.0,30.0,49560.0,0,0.668,1,0,High Risk
+DELHIVERY,Non-Compliant,1,6.0,Non Key Account,Re-activated,1.0,1.0,1189.0,105.0,9102.0,0,0.634,1,0,High Risk
+GATI,Compliant,0,20.0,Key Account,NCA,0.0,0.0,1698.0,36.0,10000.0,0,0.358,0,0,Medium Risk
+GATI,Compliant,0,1.0,Non Key Account,NCA,0.0,0.0,676.0,40.0,16520.0,0,0.629,1,0,High Risk
+SCORPION,Compliant,0,5.0,Key Account,Retained,0.0,0.0,2215.0,180.0,1445500.0,0,0.236,0,0,Low Risk
+V-XPRESS,Compliant,0,3.0,Non Key Account,Retained,0.0,0.0,3452.0,300.0,217560.0,0,0.738,1,0,High Risk
+SCORPION,Compliant,0,29.0,Non Key Account,Retained,-1.0,-1.0,635.4,120.0,158592.0,1,0.601,1,1,High Risk
+DELHIVERY,Compliant,0,15.0,Key Account,Retained,-4.0,-4.0,1043.25,102.0,23600.0,0,0.194,0,0,Low Risk
+DELHIVERY,Non-Compliant,1,2.0,Key Account,NCA,1.0,1.0,1158.0,50.0,15635.0,0,0.43,0,0,Medium Risk
+DELHIVERY,Compliant,0,129.0,Key Account,Retained,-3.0,-3.0,1775.7,185.0,73185.0,0,0.214,0,0,Low Risk
+DELHIVERY,Compliant,0,189.0,Key Account,Retained,-4.0,-4.0,3458.7,220.0,79591.0,0,0.241,0,0,Low Risk
+GATI,Compliant,0,98.0,Key Account,Retained,0.0,0.0,617.0,38.0,10000.0,0,0.25,0,0,Low Risk
+GATI,Compliant,0,11.0,Non Key Account,Retained,-2.0,-2.0,2204.95,204.0,34783.0,0,0.474,0,0,Medium Risk
+SCORPION,Compliant,0,21.0,Key Account,Retained,-2.0,-2.0,1881.4,112.0,50274.0,0,0.334,0,0,Medium Risk
+DELHIVERY,Compliant,0,138.0,Key Account,Retained,-3.0,-3.0,1186.0,20.0,89468.0,1,0.233,0,1,Low Risk
+GATI,Non-Compliant,1,37.0,Key Account,Retained,4.0,4.0,2077.15,250.0,20000.0,0,0.311,0,0,Medium Risk
+GATI,Non-Compliant,1,9.0,Non Key Account,Unknown,1.0,2.0,2257.0,260.0,5900.0,0,0.519,1,0,Medium Risk
+SCORPION,Compliant,0,11.0,Key Account,Retained,0.0,0.0,3287.0,453.0,132750.0,0,0.271,0,0,Low Risk
+DELHIVERY,Compliant,0,126.0,Non Key Account,Retained,-4.0,-4.0,1363.25,46.0,99800.0,0,0.494,0,0,Medium Risk
+DELHIVERY,Compliant,0,1.0,Non Key Account,NCA,-1.0,-1.0,3000.0,250.0,90200.0,1,0.547,1,1,Medium Risk
+Unknown,Non-Compliant,1,55.0,Non Key Account,Retained,5.0,5.0,844.0,50.0,10500.0,1,0.781,1,1,High Risk
+GATI,Compliant,0,129.0,Key Account,Retained,0.0,0.0,1586.0,140.0,23985.0,1,0.251,0,1,Low Risk
+GATI,Non-Compliant,0,10.0,Key Account,Unknown,0.0,7.0,1565.0,150.0,25000.0,0,0.107,0,0,Low Risk
+GATI,Non-Compliant,1,7.0,Non Key Account,Retained,1.0,1.0,1753.0,25.0,69030.0,1,0.634,1,1,High Risk
+DELHIVERY,Compliant,0,41.0,Key Account,Retained,0.0,0.0,780.0,75.0,22101.0,0,0.184,0,0,Low Risk
+Unknown,Compliant,0,688.0,Key Account,Retained,-2.0,-2.0,1110.0,100.0,237180.0,1,0.672,1,1,High Risk
+SCORPION,Non-Compliant,1,59.0,Key Account,Retained,1.0,1.0,14513.92,1585.0,473328.0,1,0.293,0,1,Low Risk
+GATI,Non-Compliant,1,13.0,Key Account,Retained,9.0,9.0,2457.7,203.0,85439.0,0,0.275,0,0,Low Risk
+GATI,Non-Compliant,1,13.0,Key Account,Retained,2.0,2.0,2300.0,100.0,2222.0,1,0.339,0,1,Medium Risk
+GATI,Non-Compliant,1,265.0,Key Account,Retained,1.0,1.0,1692.0,120.0,35000.0,0,0.446,0,0,Medium Risk
+GATI,Compliant,0,105.0,Non Key Account,Retained,-2.0,-2.0,1690.0,137.0,335120.0,1,0.506,1,1,Medium Risk
+OXYZEN,Compliant,0,7.0,Non Key Account,Unknown,0.0,-1.0,2431.0,200.0,25000.0,1,0.454,0,1,Medium Risk
+DELHIVERY,Compliant,0,7.0,Key Account,Retained,-1.0,-1.0,759.0,44.0,48000.0,1,0.182,0,1,Low Risk
+GATI,Compliant,0,232.0,Key Account,Retained,-1.0,-1.0,498.0,40.0,262394.0,0,0.29,0,0,Low Risk
+DELHIVERY,Non-Compliant,1,92.0,Key Account,Retained,8.0,8.0,3639.6,185.0,73185.0,0,0.266,0,0,Low Risk
+V-XPRESS,Compliant,0,46.0,Key Account,Re-activated,0.0,0.0,1826.0,37.0,16284.0,0,0.61,1,0,High Risk
+DELHIVERY,Non-Compliant,1,4.0,Key Account,NCA,1.0,1.0,2861.0,360.0,318600.0,0,0.371,0,0,Medium Risk
+GATI,Non-Compliant,1,5.0,Non Key Account,Re-activated,3.0,3.0,675.0,35.0,449580.0,1,0.662,1,1,High Risk
+DELHIVERY,Compliant,0,9.0,Non Key Account,Retained,-3.0,-3.0,1959.0,250.0,11500.0,0,0.409,0,0,Medium Risk
+DELHIVERY,Compliant,0,17.0,Non Key Account,Retained,0.0,0.0,898.0,20.0,14750.0,1,0.422,0,1,Medium Risk
+Unknown,Unknown,2,697.0,Key Account,Retained,0.0,0.0,598.0,50.0,403995.0,1,0.875,1,1,High Risk
+GATI,Unknown,2,10.0,Non Key Account,NCA,0.0,0.0,1189.0,100.0,100181.0,1,0.857,1,1,High Risk
+GATI,Non-Compliant,1,38.0,Key Account,Retained,1.0,1.0,617.0,50.0,15000.0,0,0.355,0,0,Medium Risk
+SCORPION,Compliant,0,34.0,Non Key Account,Retained,0.0,0.0,733.0,68.0,369583.0,0,0.591,1,0,Medium Risk
+GATI,Compliant,0,27.0,Non Key Account,Retained,-1.0,-1.0,676.0,50.0,20935.0,0,0.492,0,0,Medium Risk
+V-XPRESS,Non-Compliant,1,1.0,Non Key Account,Unknown,6.0,6.0,785.0,75.0,140000.0,1,0.785,1,1,High Risk
+DELHIVERY,Compliant,0,20.0,Key Account,Retained,-5.0,-5.0,2182.15,70.0,18880.0,0,0.208,0,0,Low Risk
+GATI,Compliant,0,1.0,Non Key Account,NCA,-4.0,-4.0,1625.0,50.0,5900.0,0,0.661,1,0,High Risk
+DELHIVERY,Compliant,0,16.0,Non Key Account,Retained,-2.0,-2.0,785.65,35.0,2513.0,1,0.435,0,1,Medium Risk
+DELHIVERY,Compliant,0,1.0,Non Key Account,NCA,0.0,0.0,2848.0,53.0,17010.0,1,0.576,1,1,Medium Risk
+DELHIVERY,Compliant,0,18.0,Non Key Account,Retained,-7.0,-7.0,3051.0,20.0,7080.0,1,0.489,0,1,Medium Risk
+GATI,Compliant,0,427.0,Key Account,Retained,0.0,0.0,1438.0,175.0,45000.0,0,0.357,0,0,Medium Risk
+SCORPION,Compliant,0,1.0,Non Key Account,NCA,-3.0,-3.0,622.0,40.0,1332.0,1,0.758,1,1,High Risk
+GATI,Compliant,0,783.0,Key Account,Retained,-3.0,-3.0,826.0,69.0,93273.0,1,0.548,1,1,Medium Risk
+GATI,Non-Compliant,1,2.0,Non Key Account,NCA,2.0,2.0,4424.0,75.0,9408.0,1,0.765,1,1,High Risk
+GATI,Compliant,0,152.0,Non Key Account,Retained,-1.0,-1.0,585.0,25.0,91800.0,0,0.547,1,0,Medium Risk
+GATI,Compliant,0,233.0,Key Account,Retained,-3.0,-3.0,677.0,75.0,15000.0,0,0.312,0,0,Medium Risk
+GATI,Non-Compliant,1,2.0,Non Key Account,Re-activated,10.0,10.0,1949.0,105.0,117457.0,1,0.626,1,1,High Risk
+GATI,Compliant,0,118.0,Non Key Account,Retained,0.0,0.0,2857.0,285.0,91404.0,1,0.493,0,1,Medium Risk
+GATI,Compliant,0,4.0,Non Key Account,NCA,0.0,0.0,1903.0,155.0,141532.0,0,0.611,1,0,High Risk
+DELHIVERY,Compliant,0,47.0,Key Account,Retained,-5.0,-5.0,6507.0,250.0,117962.0,0,0.209,0,0,Low Risk
+V-XPRESS,Non-Compliant,1,14.0,Non Key Account,Retained,5.0,5.0,1149.0,64.0,7951.0,0,0.847,1,0,High Risk
+DELHIVERY,Compliant,0,563.0,Key Account,Retained,0.0,0.0,3165.0,154.0,213993.0,0,0.356,0,0,Medium Risk
+DELHIVERY,Compliant,0,13.0,Non Key Account,Retained,-3.0,-3.0,857.0,28.0,14960.0,0,0.442,0,0,Medium Risk
+GATI,Compliant,0,383.0,Key Account,Retained,0.0,0.0,516.0,50.0,10000.0,0,0.355,0,0,Medium Risk
+GATI,Non-Compliant,1,7.0,Non Key Account,Retained,1.0,1.0,736.0,30.0,34532.0,0,0.63,1,0,High Risk
+DELHIVERY,Compliant,0,132.0,Key Account,Retained,-9.0,-9.0,2709.0,155.0,69376.0,0,0.256,0,0,Low Risk
+SCORPION,Compliant,0,49.0,Key Account,Re-activated,-6.0,-6.0,636.0,80.0,14334.0,0,0.45,0,0,Medium Risk
+V-XPRESS,Non-Compliant,1,11.0,Key Account,Retained,2.0,2.0,2752.0,200.0,12345.0,0,0.638,1,0,High Risk
+DELHIVERY,Non-Compliant,1,175.0,Key Account,Retained,2.0,2.0,2542.5,155.0,69376.0,0,0.336,0,0,Medium Risk
+DELHIVERY,Compliant,0,108.0,Key Account,Retained,0.0,0.0,3386.0,200.0,60766.0,0,0.198,0,0,Low Risk
+GATI,Compliant,0,518.0,Key Account,Retained,-3.0,-3.0,883.0,55.0,12000.0,0,0.436,0,0,Medium Risk
+V-XPRESS,Non-Compliant,1,1.0,Non Key Account,NCA,3.0,3.0,40.0,55.0,10000.0,1,0.914,1,1,High Risk
+GATI,Compliant,0,36.0,Non Key Account,Retained,0.0,0.0,537.0,40.0,99120.0,0,0.484,0,0,Medium Risk
+Unknown,Unknown,2,26.0,Non Key Account,Retained,0.0,0.0,1123.2,95.0,137647.0,1,0.877,1,1,High Risk
+Unknown,Unknown,2,699.0,Key Account,Retained,0.0,0.0,3885.0,380.0,35000.0,1,0.87,1,1,High Risk
+V-XPRESS,Non-Compliant,1,301.0,Key Account,Retained,5.0,5.0,2127.0,140.0,37760.0,0,0.735,1,0,High Risk
+GATI,Compliant,0,9.0,Non Key Account,Retained,-1.0,-1.0,1141.9,135.0,24386.0,1,0.472,0,1,Medium Risk
+GATI,Compliant,0,4.0,Non Key Account,Retained,0.0,0.0,2630.0,261.0,215744.0,1,0.437,0,1,Medium Risk
+GATI,Compliant,0,5.0,Non Key Account,NCA,-1.0,-1.0,1292.0,55.0,18585.0,1,0.638,1,1,High Risk
+SCORPION,Compliant,0,2.0,Non Key Account,Retained,0.0,0.0,2118.0,124.0,41440.0,1,0.596,1,1,Medium Risk
+DELHIVERY,Compliant,0,1.0,Non Key Account,Unknown,0.0,-1.0,400.0,48.0,40710.0,1,0.34,0,1,Medium Risk
+DELHIVERY,Compliant,0,154.0,Key Account,Retained,-1.0,-1.0,2685.0,125.0,64761.0,1,0.222,0,1,Low Risk
+SCORPION,Compliant,0,25.0,Key Account,Re-activated,-2.0,-2.0,1748.0,10.0,19439.0,0,0.427,0,0,Medium Risk
+GATI,Compliant,0,186.0,Key Account,Retained,-3.0,-3.0,788.0,47.0,10000.0,0,0.299,0,0,Low Risk
+DELHIVERY,Non-Compliant,1,22.0,Non Key Account,Retained,3.0,3.0,1242.0,156.0,72806.0,1,0.538,1,1,Medium Risk
+DELHIVERY,Compliant,0,13.0,Key Account,Retained,-1.0,-1.0,885.0,77.0,37440.0,1,0.181,0,1,Low Risk
+Unknown,Compliant,0,13.0,Key Account,Retained,0.0,0.0,700.0,20.0,4071.0,1,0.387,0,1,Medium Risk
+DELHIVERY,Compliant,0,153.0,Key Account,Retained,0.0,0.0,857.0,25.0,14541.0,1,0.223,0,1,Low Risk
+GATI,Non-Compliant,1,4.0,Non Key Account,Retained,3.0,3.0,10464.1,702.0,40500.0,1,0.557,1,1,Medium Risk
+DELHIVERY,Non-Compliant,1,30.0,Non Key Account,Retained,1.0,1.0,1698.9,55.0,29499.0,1,0.579,1,1,Medium Risk
+DELHIVERY,Compliant,0,27.0,Non Key Account,Retained,0.0,0.0,4316.0,55.0,29499.0,0,0.439,0,0,Medium Risk
+GATI,Compliant,0,27.0,Non Key Account,Retained,0.0,0.0,753.0,63.0,61326.0,0,0.48,0,0,Medium Risk
+V-XPRESS,Compliant,0,373.0,Key Account,Retained,-2.0,-2.0,2715.84,195.0,56640.0,1,0.665,1,1,High Risk
+GATI,Non-Compliant,1,17.0,Non Key Account,Re-activated,2.0,2.0,537.0,40.0,33000.0,0,0.695,1,0,High Risk
+SCORPION,Compliant,0,119.0,Key Account,Retained,0.0,0.0,5676.0,460.0,78244.0,1,0.325,0,1,Medium Risk
+SCORPION,Non-Compliant,1,42.0,Non Key Account,Retained,1.0,1.0,630.0,30.0,23721.0,0,0.753,1,0,High Risk
+SCORPION,Non-Compliant,1,34.0,Non Key Account,Retained,4.0,4.0,1086.0,50.0,23600.0,1,0.732,1,1,High Risk
+SCORPION,Compliant,0,2.0,Non Key Account,NCA,-3.0,-3.0,652.65,20.0,8820.0,0,0.76,1,0,High Risk
+GATI,Non-Compliant,0,2.0,Non Key Account,Unknown,0.0,1.0,1209.35,75.0,15000.0,1,0.323,0,1,Medium Risk
+DELHIVERY,Compliant,0,2.0,Non Key Account,Re-activated,0.0,0.0,549.9,24.0,21523.0,1,0.49,0,1,Medium Risk
+SCORPION,Non-Compliant,1,1.0,Non Key Account,NCA,1.0,1.0,3137.0,600.0,87932.0,1,0.79,1,1,High Risk
+GATI,Non-Compliant,1,8.0,Non Key Account,Re-activated,1.0,1.0,1279.0,70.0,379134.0,0,0.678,1,0,High Risk
+DELHIVERY,Non-Compliant,1,243.0,Key Account,Retained,1.0,1.0,2934.9,185.0,73185.0,0,0.368,0,0,Medium Risk
+DELHIVERY,Non-Compliant,1,23.0,Non Key Account,Retained,3.0,3.0,665.0,71.0,37406.0,1,0.552,1,1,Medium Risk
+SCORPION,Compliant,0,1.0,Key Account,NCA,-7.0,-7.0,10600.0,900.0,674813.0,0,0.392,0,0,Medium Risk
+SCORPION,Non-Compliant,1,43.0,Non Key Account,Retained,3.0,3.0,780.0,50.0,32666.0,0,0.739,1,0,High Risk
+DELHIVERY,Compliant,0,16.0,Non Key Account,Retained,-2.0,-2.0,2324.0,40.0,14160.0,1,0.442,0,1,Medium Risk
+Unknown,Compliant,0,5.0,Non Key Account,Re-activated,-1.0,-1.0,1168.5,70.0,17464.0,1,0.735,1,1,High Risk
+DELHIVERY,Compliant,0,18.0,Non Key Account,Retained,0.0,0.0,722.0,25.0,38645.0,0,0.419,0,0,Medium Risk
+DELHIVERY,Compliant,0,8.0,Key Account,Retained,-2.0,-2.0,11535.35,980.0,165749.0,0,0.131,0,0,Low Risk
+V-XPRESS,Unknown,2,77.0,Key Account,Retained,0.0,0.0,812.36,60.0,78175.0,1,0.807,1,1,High Risk
+GATI,Compliant,0,14.0,Non Key Account,Unknown,0.0,-4.0,950.0,68.0,15247.0,1,0.429,0,1,Medium Risk
+GATI,Compliant,0,495.0,Key Account,Retained,-4.0,-4.0,1053.0,92.0,208270.0,0,0.416,0,0,Medium Risk
+DELHIVERY,Compliant,0,1.0,Key Account,NCA,-1.0,-1.0,591.0,26.0,16795.0,0,0.295,0,0,Low Risk
+GATI,Compliant,0,2.0,Non Key Account,NCA,0.0,0.0,1151.0,85.0,47952.0,1,0.623,1,1,High Risk
+DELHIVERY,Compliant,0,4.0,Non Key Account,Retained,-3.0,-3.0,663.0,32.0,4000.0,1,0.436,0,1,Medium Risk
+DELHIVERY,Non-Compliant,1,1.0,Non Key Account,NCA,5.0,5.0,2888.55,160.0,30000.0,1,0.674,1,1,High Risk
+DELHIVERY,Compliant,0,211.0,Key Account,Retained,-6.0,-6.0,3294.0,155.0,69376.0,0,0.268,0,0,Low Risk
+DELHIVERY,Compliant,0,35.0,Key Account,Retained,0.0,0.0,9425.0,973.0,1104480.0,0,0.101,0,0,Low Risk
+GATI,Compliant,0,791.0,Key Account,Retained,-3.0,-3.0,1272.0,118.0,269770.0,1,0.534,1,1,Medium Risk
+Unknown,Compliant,0,318.0,Key Account,Retained,-1.0,-1.0,1242.0,135.0,37760.0,1,0.512,1,1,Medium Risk
+DELHIVERY,Unknown,2,32.0,Non Key Account,Retained,0.0,0.0,3376.0,200.0,300900.0,1,0.706,1,1,High Risk
+SCORPION,Non-Compliant,1,1.0,Non Key Account,NCA,2.0,2.0,1993.0,195.0,579962.0,1,0.805,1,1,High Risk
+GATI,Compliant,0,1.0,Non Key Account,NCA,-1.0,-1.0,2884.0,198.0,40000.0,1,0.621,1,1,High Risk
+DELHIVERY,Compliant,0,88.0,Key Account,Retained,-4.0,-4.0,4261.5,155.0,69376.0,0,0.22,0,0,Low Risk
+DELHIVERY,Non-Compliant,1,3.0,Key Account,NCA,2.0,2.0,2178.0,30.0,20490.0,0,0.431,0,0,Medium Risk
+SCORPION,Non-Compliant,1,7.0,Non Key Account,Retained,2.0,2.0,2148.0,285.0,1609153.0,0,0.618,1,0,High Risk
+Unknown,Non-Compliant,1,1.0,Non Key Account,NCA,18.0,18.0,2283.0,60.0,24226.0,1,0.806,1,1,High Risk
+GATI,Non-Compliant,1,62.0,Key Account,Retained,1.0,1.0,2325.0,230.0,49000.0,0,0.344,0,0,Medium Risk
+SCORPION,Non-Compliant,1,24.0,Key Account,Retained,19.0,19.0,2651.85,195.0,188951.0,0,0.32,0,0,Medium Risk
+GATI,Non-Compliant,1,17.0,Key Account,Retained,2.0,2.0,1020.0,56.0,21120.0,0,0.34,0,0,Medium Risk
+DELHIVERY,Non-Compliant,1,45.0,Non Key Account,Retained,2.0,2.0,595.0,32.0,36570.0,1,0.576,1,1,Medium Risk
+GATI,Compliant,0,35.0,Non Key Account,Retained,-3.0,-3.0,2636.0,180.0,57906.0,0,0.498,0,0,Medium Risk
+GATI,Non-Compliant,1,1.0,Non Key Account,NCA,3.0,3.0,498.0,16.0,10000.0,1,0.75,1,1,High Risk
+DELHIVERY,Non-Compliant,1,7.0,Non Key Account,Unknown,4.0,5.0,5915.0,615.0,63348.0,0,0.389,0,0,Medium Risk
+DELHIVERY,Unknown,2,108.0,Non Key Account,Retained,0.0,0.0,715.0,20.0,28026.0,1,0.758,1,1,High Risk
+GATI,Non-Compliant,1,1.0,Non Key Account,NCA,1.0,1.0,1257.0,90.0,85992.0,0,0.752,1,0,High Risk
+DELHIVERY,Non-Compliant,1,2.0,Non Key Account,Retained,1.0,1.0,1004.0,10.0,10000.0,1,0.572,1,1,Medium Risk
+GATI,Non-Compliant,0,7.0,Key Account,Unknown,0.0,1.0,3463.0,350.0,35000.0,0,0.115,0,0,Low Risk
+Unknown,Unknown,2,322.0,Key Account,Retained,0.0,0.0,1883.24,130.0,37760.0,1,0.793,1,1,High Risk
+GATI,Compliant,0,52.0,Key Account,Retained,0.0,0.0,2854.0,35.0,9780.0,0,0.244,0,0,Low Risk
+GATI,Non-Compliant,1,148.0,Key Account,Retained,1.0,1.0,1756.0,170.0,45000.0,0,0.386,0,0,Medium Risk
+SCORPION,Non-Compliant,1,6.0,Key Account,Re-activated,1.0,1.0,5771.5,929.0,598496.0,0,0.389,0,0,Medium Risk
+GATI,Non-Compliant,1,478.0,Key Account,Retained,4.0,4.0,4869.0,480.0,608880.0,0,0.44,0,0,Medium Risk
+GATI,Compliant,0,30.0,Key Account,Retained,0.0,0.0,1850.0,180.0,128512.0,0,0.211,0,0,Low Risk
+GATI,Non-Compliant,1,1.0,Non Key Account,NCA,3.0,3.0,672.0,20.0,11414.0,0,0.75,1,0,High Risk
+GATI,Compliant,0,1.0,Non Key Account,NCA,-1.0,-1.0,2150.0,120.0,279100.0,1,0.615,1,1,High Risk
+GATI,Non-Compliant,1,33.0,Non Key Account,Retained,2.0,2.0,815.0,48.0,94800.0,0,0.628,1,0,High Risk
+GATI,Compliant,0,7.0,Non Key Account,Re-activated,-1.0,-1.0,866.0,55.0,99900.0,1,0.557,1,1,Medium Risk
+DELHIVERY,Compliant,0,158.0,Key Account,Retained,-6.0,-6.0,3177.9,155.0,69376.0,0,0.249,0,0,Low Risk
+GATI,Non-Compliant,1,21.0,Key Account,Retained,1.0,1.0,3344.0,450.0,10000.0,0,0.302,0,0,Medium Risk
+DELHIVERY,Compliant,0,13.0,Non Key Account,Retained,-2.0,-2.0,842.0,8.0,4247.0,0,0.438,0,0,Medium Risk
+GATI,Non-Compliant,1,10.0,Non Key Account,Retained,1.0,1.0,7316.0,600.0,60480.0,1,0.573,1,1,Medium Risk
+GATI,Compliant,0,12.0,Key Account,Retained,0.0,0.0,528.0,29.0,55040.0,0,0.221,0,0,Low Risk
+DELHIVERY,Compliant,0,23.0,Key Account,Retained,-2.0,-2.0,1065.0,60.0,11643.0,1,0.192,0,1,Low Risk
+DELHIVERY,Compliant,0,74.0,Non Key Account,Retained,-9.0,-9.0,3448.0,48.0,16000.0,0,0.526,1,0,Medium Risk
+GATI,Compliant,0,71.0,Non Key Account,Retained,-1.0,-1.0,1388.0,130.0,53783.0,1,0.5,1,1,Medium Risk
+SCORPION,Compliant,0,8.0,Non Key Account,NCA,-10.0,-10.0,3784.0,300.0,10000.0,0,0.779,1,0,High Risk
+DELHIVERY,Compliant,0,100.0,Non Key Account,Retained,-4.0,-4.0,2211.0,50.0,24957.0,1,0.492,0,1,Medium Risk
+GATI,Compliant,0,14.0,Non Key Account,Retained,0.0,0.0,958.0,76.0,150450.0,0,0.467,0,0,Medium Risk
+GATI,Compliant,0,798.0,Key Account,Retained,-3.0,-3.0,640.0,49.0,101231.0,1,0.556,1,1,Medium Risk
+GATI,Non-Compliant,1,25.0,Non Key Account,Retained,2.0,2.0,1170.0,97.0,124372.0,0,0.617,1,0,High Risk
+GATI,Non-Compliant,1,3.0,Key Account,Re-activated,2.0,2.0,2127.0,195.0,17700.0,1,0.391,0,1,Medium Risk
+GATI,Compliant,0,1.0,Non Key Account,Unknown,0.0,0.0,656.0,50.0,10000.0,0,0.396,0,0,Medium Risk
+GATI,Non-Compliant,1,4.0,Non Key Account,Retained,5.0,5.0,698.0,27.0,7500.0,1,0.601,1,1,High Risk
+DELHIVERY,Compliant,0,10.0,Non Key Account,Retained,0.0,0.0,980.0,50.0,44500.0,0,0.413,0,0,Medium Risk
+DELHIVERY,Compliant,0,39.0,Non Key Account,Retained,0.0,0.0,697.0,50.0,44887.0,0,0.424,0,0,Medium Risk
+Unknown,Unknown,2,25.0,Non Key Account,Retained,0.0,0.0,1614.0,240.0,50028.0,1,0.87,1,1,High Risk
+DELHIVERY,Compliant,0,84.0,Non Key Account,Retained,-8.0,-8.0,2127.0,40.0,20000.0,0,0.517,1,0,Medium Risk
+GATI,Compliant,0,49.0,Key Account,Retained,0.0,0.0,4083.0,35.0,9780.0,0,0.249,0,0,Low Risk
+DELHIVERY,Non-Compliant,1,198.0,Key Account,Retained,6.0,6.0,3067.2,155.0,69376.0,0,0.32,0,0,Medium Risk
+GATI,Compliant,0,34.0,Non Key Account,Retained,-6.0,-6.0,4086.0,351.0,42500.0,0,0.501,1,0,Medium Risk
+Unknown,Unknown,2,36.0,Non Key Account,Retained,0.0,0.0,783.0,56.0,85239.0,1,0.882,1,1,High Risk
+Unknown,Compliant,0,676.0,Key Account,Retained,-2.0,-2.0,649.0,50.0,88606.0,1,0.681,1,1,High Risk
+SCORPION,Compliant,0,15.0,Key Account,NCA,-3.0,-3.0,969.6,45.0,15055.0,0,0.498,0,0,Medium Risk
+DELHIVERY,Compliant,0,66.0,Key Account,Retained,0.0,0.0,725.05,55.0,25400.0,0,0.193,0,0,Low Risk
+GATI,Non-Compliant,1,81.0,Non Key Account,Retained,2.0,2.0,557.0,45.0,72600.0,0,0.648,1,0,High Risk
+Unknown,Compliant,0,62.0,Non Key Account,Retained,0.0,0.0,1003.0,50.0,44628.0,1,0.686,1,1,High Risk
+DELHIVERY,Compliant,0,81.0,Non Key Account,Retained,-2.0,-2.0,4289.0,200.0,325278.0,1,0.435,0,1,Medium Risk
+GATI,Compliant,0,4.0,Non Key Account,Retained,-2.0,-2.0,9080.0,740.0,445340.0,0,0.395,0,0,Medium Risk
+GATI,Non-Compliant,0,2.0,Non Key Account,Unknown,0.0,2.0,1229.0,100.0,29500.0,0,0.312,0,0,Medium Risk
+DELHIVERY,Compliant,0,40.0,Non Key Account,Retained,-4.0,-4.0,8820.0,450.0,2599011.0,0,0.286,0,0,Low Risk
+GATI,Compliant,0,20.0,Key Account,Retained,0.0,0.0,1393.0,132.0,188636.0,0,0.209,0,0,Low Risk
+SCORPION,Compliant,0,5.0,Non Key Account,Re-activated,-2.0,-2.0,672.0,55.0,59000.0,1,0.686,1,1,High Risk
+GATI,Compliant,0,10.0,Key Account,Retained,-1.0,-1.0,596.0,5.0,2790.0,0,0.231,0,0,Low Risk
+GATI,Non-Compliant,1,131.0,Non Key Account,Retained,2.0,2.0,585.0,46.0,71100.0,0,0.668,1,0,High Risk
+GATI,Compliant,0,822.0,Key Account,Retained,0.0,0.0,516.0,49.0,39266.0,1,0.547,1,1,Medium Risk
+GATI,Compliant,0,150.0,Non Key Account,Retained,-3.0,-3.0,1762.0,75.0,178180.0,0,0.555,1,0,Medium Risk
+Unknown,Unknown,2,20.0,Non Key Account,Retained,0.0,0.0,2003.0,60.0,7951.0,1,0.884,1,1,High Risk
+GATI,Compliant,0,395.0,Key Account,Retained,-2.0,-2.0,659.0,50.0,756000.0,0,0.332,0,0,Medium Risk
+DELHIVERY,Non-Compliant,1,25.0,Non Key Account,Retained,4.0,4.0,942.0,20.0,44250.0,0,0.555,1,0,Medium Risk
+GATI,Compliant,0,5.0,Key Account,NCA,-1.0,-1.0,3275.0,195.0,133038.0,0,0.335,0,0,Medium Risk
+V-XPRESS,Non-Compliant,1,18.0,Non Key Account,Retained,8.0,8.0,4318.0,105.0,30000.0,1,0.841,1,1,High Risk
+DELHIVERY,Non-Compliant,1,363.0,Key Account,Retained,4.0,4.0,1450.84,155.0,69376.0,1,0.394,0,1,Medium Risk
+Unknown,Non-Compliant,1,107.0,Key Account,Retained,1.0,1.0,794.0,17.0,8496.0,1,0.583,1,1,Medium Risk
+DELHIVERY,Compliant,0,73.0,Non Key Account,Retained,0.0,0.0,997.0,50.0,49089.0,1,0.44,0,1,Medium Risk
+Unknown,Compliant,0,695.0,Key Account,Retained,-1.0,-1.0,640.0,50.0,66021.0,1,0.683,1,1,High Risk
+DELHIVERY,Compliant,0,41.0,Key Account,Retained,-3.0,-3.0,8080.0,495.0,114130.0,0,0.177,0,0,Low Risk
+DELHIVERY,Compliant,0,34.0,Key Account,Retained,0.0,0.0,6375.0,216.0,375240.0,0,0.174,0,0,Low Risk
+DELHIVERY,Compliant,0,35.0,Key Account,Retained,0.0,0.0,948.0,54.0,29230.0,0,0.185,0,0,Low Risk
+DELHIVERY,Compliant,0,21.0,Key Account,Retained,0.0,0.0,964.0,50.0,20.0,0,0.183,0,0,Low Risk
+SCORPION,Non-Compliant,1,1.0,Non Key Account,Unknown,4.0,1.0,571.0,40.0,11850.0,1,0.672,1,1,High Risk
+DELHIVERY,Compliant,0,1.0,Non Key Account,NCA,0.0,0.0,1036.0,40.0,20966.0,1,0.568,1,1,Medium Risk
+DELHIVERY,Compliant,0,51.0,Non Key Account,Retained,0.0,0.0,807.0,58.0,59950.0,1,0.428,0,1,Medium Risk
+DELHIVERY,Non-Compliant,1,16.0,Non Key Account,Re-activated,4.0,4.0,686.0,35.0,16692.0,1,0.625,1,1,High Risk
+V-XPRESS,Compliant,0,47.0,Non Key Account,Retained,0.0,0.0,1056.0,75.0,44800.0,0,0.779,1,0,High Risk
+DELHIVERY,Non-Compliant,1,99.0,Key Account,Retained,2.0,2.0,1057.28,100.0,35400.0,0,0.308,0,0,Medium Risk
+DELHIVERY,Compliant,0,8.0,Non Key Account,Retained,0.0,0.0,1350.3,30.0,3900.0,0,0.42,0,0,Medium Risk
+GATI,Non-Compliant,1,64.0,Key Account,Retained,2.0,2.0,5676.25,270.0,110698.0,0,0.345,0,0,Medium Risk
+DELHIVERY,Compliant,0,2.0,Non Key Account,Unknown,0.0,-1.0,988.0,100.0,47200.0,1,0.335,0,1,Medium Risk
+DELHIVERY,Compliant,0,38.0,Non Key Account,Retained,-1.0,-1.0,2850.0,59.0,30000.0,0,0.443,0,0,Medium Risk
+GATI,Non-Compliant,1,1.0,Non Key Account,NCA,2.0,2.0,1282.0,25.0,4800.0,1,0.758,1,1,High Risk
+SCORPION,Non-Compliant,1,3.0,Non Key Account,Retained,3.0,3.0,571.0,15.0,6000.0,1,0.73,1,1,High Risk
+GATI,Unknown,2,22.0,Key Account,Retained,0.0,0.0,481.0,47.0,27847.0,1,0.512,1,1,Medium Risk
+Unknown,Non-Compliant,1,106.0,Key Account,Retained,2.0,2.0,794.0,17.0,8496.0,1,0.575,1,1,Medium Risk
+GATI,Non-Compliant,1,14.0,Non Key Account,Retained,2.0,2.0,2290.0,201.0,34783.0,0,0.607,1,0,High Risk
+V-XPRESS,Non-Compliant,1,55.0,Key Account,Retained,1.0,1.0,1390.12,38.0,13083.0,1,0.681,1,1,High Risk
+DELHIVERY,Compliant,0,12.0,Key Account,Retained,-1.0,-1.0,1293.0,105.0,62383.0,0,0.178,0,0,Low Risk
+V-XPRESS,Non-Compliant,1,5.0,Non Key Account,Retained,2.0,2.0,1584.0,80.0,7080.0,0,0.857,1,0,High Risk
+DELHIVERY,Compliant,0,6.0,Non Key Account,Retained,-1.0,-1.0,661.0,43.0,49560.0,1,0.418,0,1,Medium Risk
+DELHIVERY,Non-Compliant,1,3.0,Non Key Account,Unknown,4.0,2.0,663.0,8.0,14000.0,1,0.484,0,1,Medium Risk
+SCORPION,Compliant,0,15.0,Non Key Account,Retained,-1.0,-1.0,2638.0,375.0,2124354.0,0,0.439,0,0,Medium Risk
+GATI,Compliant,0,17.0,Non Key Account,Retained,-1.0,-1.0,1854.0,105.0,25000.0,0,0.485,0,0,Medium Risk
+Unknown,Unknown,2,67.0,Non Key Account,Retained,0.0,0.0,1145.0,30.0,40568.0,1,0.892,1,1,High Risk
+Unknown,Compliant,0,166.0,Non Key Account,Retained,0.0,0.0,585.0,45.0,96500.0,1,0.721,1,1,High Risk
+SCORPION,Non-Compliant,1,40.0,Key Account,Re-activated,9.0,9.0,1919.0,210.0,1415511.0,0,0.391,0,0,Medium Risk
+GATI,Non-Compliant,1,1.0,Non Key Account,Unknown,4.0,4.0,10375.0,830.0,114283.0,1,0.443,0,1,Medium Risk
+GATI,Compliant,0,123.0,Key Account,Retained,-3.0,-3.0,4128.0,360.0,45000.0,0,0.248,0,0,Low Risk
+DELHIVERY,Compliant,0,6.0,Non Key Account,Retained,-1.0,-1.0,5510.0,360.0,511530.0,0,0.365,0,0,Medium Risk
+GATI,Compliant,0,7.0,Key Account,Re-activated,0.0,0.0,519.0,50.0,15000.0,0,0.277,0,0,Low Risk
+V-XPRESS,Non-Compliant,1,4.0,Key Account,Re-activated,1.0,1.0,70.0,84.0,190894.0,1,0.705,1,1,High Risk
+SCORPION,Non-Compliant,1,27.0,Non Key Account,Retained,5.0,5.0,686.0,50.0,11800.0,1,0.722,1,1,High Risk
+GATI,Non-Compliant,1,90.0,Non Key Account,Retained,3.0,3.0,2427.0,175.0,374000.0,0,0.616,1,0,High Risk
+DELHIVERY,Compliant,0,209.0,Key Account,Retained,-2.0,-2.0,4417.2,155.0,69376.0,0,0.249,0,0,Low Risk
+DELHIVERY,Compliant,0,28.0,Non Key Account,Retained,-6.0,-6.0,3549.0,45.0,16999.0,1,0.484,0,1,Medium Risk
+DELHIVERY,Compliant,0,4.0,Key Account,NCA,-2.0,-2.0,1971.0,180.0,159300.0,0,0.28,0,0,Low Risk
+GATI,Non-Compliant,1,33.0,Key Account,Retained,2.0,2.0,767.6,70.0,30000.0,0,0.342,0,0,Medium Risk
+GATI,Compliant,0,34.0,Non Key Account,Retained,0.0,0.0,656.0,25.0,24780.0,0,0.491,0,0,Medium Risk
+GATI,Non-Compliant,1,135.0,Key Account,Retained,3.0,3.0,2704.0,270.0,48000.0,0,0.355,0,0,Medium Risk
+DELHIVERY,Compliant,0,71.0,Non Key Account,Retained,-4.0,-4.0,991.0,40.0,20000.0,0,0.474,0,0,Medium Risk
+DELHIVERY,Compliant,0,3.0,Key Account,Retained,-2.0,-2.0,369.2,80.0,45000.0,0,0.181,0,0,Low Risk
+SCORPION,Compliant,0,4.0,Non Key Account,Re-activated,0.0,0.0,686.0,19.0,7200.0,0,0.68,1,0,High Risk
+DELHIVERY,Non-Compliant,1,11.0,Non Key Account,Retained,1.0,1.0,782.0,25.0,9050.0,0,0.572,1,0,Medium Risk
+DELHIVERY,Non-Compliant,1,8.0,Non Key Account,Retained,2.0,2.0,1011.0,40.0,23168.0,0,0.561,1,0,Medium Risk
+V-XPRESS,Compliant,0,10.0,Non Key Account,Retained,-1.0,-1.0,7115.0,800.0,27010.0,0,0.705,1,0,High Risk
+GATI,Compliant,0,650.0,Key Account,Retained,-1.0,-1.0,516.0,50.0,91539.0,0,0.474,0,0,Medium Risk
+DELHIVERY,Compliant,0,70.0,Key Account,Retained,-11.0,-11.0,2297.0,10.0,5381.0,1,0.266,0,1,Low Risk
+GATI,Non-Compliant,0,12.0,Key Account,Unknown,-1.0,1.0,825.0,80.0,200600.0,0,0.124,0,0,Low Risk
+DELHIVERY,Compliant,0,349.0,Key Account,Retained,-1.0,-1.0,2081.96,155.0,69376.0,1,0.282,0,1,Low Risk
+GATI,Non-Compliant,1,2.0,Non Key Account,Re-activated,4.0,4.0,2299.0,102.0,24650.0,1,0.676,1,1,High Risk
+GATI,Non-Compliant,1,453.0,Key Account,Retained,3.0,3.0,4081.0,400.0,30000.0,0,0.482,0,0,Medium Risk
+DELHIVERY,Non-Compliant,1,262.0,Key Account,Retained,1.0,1.0,2486.7,155.0,69376.0,0,0.378,0,0,Medium Risk
+GATI,Compliant,0,42.0,Key Account,NCA,-3.0,-3.0,1698.0,36.0,10000.0,0,0.388,0,0,Medium Risk
+DELHIVERY,Non-Compliant,1,4.0,Key Account,NCA,2.0,2.0,30251.8,2500.0,1442000.0,0,0.159,0,0,Low Risk
+GATI,Non-Compliant,1,11.0,Non Key Account,Retained,34.0,34.0,1245.0,110.0,75040.0,0,0.371,0,0,Medium Risk
+Unknown,Compliant,0,59.0,Non Key Account,Retained,-4.0,-4.0,808.0,57.0,124284.0,1,0.705,1,1,High Risk
+GATI,Non-Compliant,1,4.0,Non Key Account,Retained,1.0,1.0,652.0,17.0,3696.0,1,0.632,1,1,High Risk
+SCORPION,Compliant,0,64.0,Key Account,Retained,-3.0,-3.0,724.0,73.0,14508.0,0,0.361,0,0,Medium Risk
+DELHIVERY,Non-Compliant,1,1.0,Non Key Account,NCA,4.0,4.0,745.0,60.0,12000.0,0,0.686,1,0,High Risk
+GATI,Compliant,0,50.0,Key Account,Retained,0.0,0.0,498.0,40.0,5000.0,0,0.233,0,0,Low Risk
+DELHIVERY,Non-Compliant,1,2.0,Non Key Account,Retained,7.0,7.0,2489.9,107.0,70500.0,0,0.514,1,0,Medium Risk
+GATI,Compliant,0,19.0,Key Account,Unknown,0.0,0.0,1282.0,160.0,25000.0,0,0.164,0,0,Low Risk
+GATI,Compliant,0,431.0,Key Account,Retained,0.0,0.0,2558.0,180.0,45000.0,0,0.364,0,0,Medium Risk
+Unknown,Compliant,0,672.0,Key Account,Retained,-2.0,-2.0,4081.0,400.0,427455.0,1,0.623,1,1,High Risk
+V-XPRESS,Non-Compliant,1,32.0,Non Key Account,Retained,1.0,1.0,763.0,50.0,21240.0,0,0.866,1,0,High Risk
+GATI,Non-Compliant,1,10.0,Non Key Account,Retained,21.0,21.0,1280.0,50.0,42321.0,1,0.48,0,1,Medium Risk
+DELHIVERY,Compliant,0,359.0,Key Account,Retained,0.0,0.0,2081.96,155.0,69376.0,1,0.279,0,1,Low Risk
+GATI,Compliant,0,162.0,Key Account,Retained,-1.0,-1.0,896.0,65.0,10000.0,0,0.276,0,0,Low Risk
+GATI,Non-Compliant,1,3.0,Non Key Account,Re-activated,2.0,2.0,3048.0,75.0,40300.0,0,0.696,1,0,High Risk
+Unknown,Non-Compliant,1,31.0,Non Key Account,Retained,1.0,1.0,4558.0,250.0,4579927.0,1,0.535,1,1,Medium Risk
+Unknown,Unknown,2,8.0,Non Key Account,Retained,0.0,0.0,543.0,40.0,8850.0,1,0.88,1,1,High Risk
+DELHIVERY,Compliant,0,73.0,Key Account,Retained,-1.0,-1.0,1171.6,36.0,33600.0,0,0.203,0,0,Low Risk
+DELHIVERY,Non-Compliant,1,49.0,Key Account,Retained,3.0,3.0,1676.7,140.0,37760.0,0,0.28,0,0,Low Risk
+SCORPION,Non-Compliant,1,6.0,Non Key Account,NCA,1.0,1.0,752.0,60.0,61934.0,0,0.839,1,0,High Risk
+DELHIVERY,Non-Compliant,1,121.0,Key Account,Retained,6.0,6.0,1603.8,185.0,73185.0,0,0.28,0,0,Low Risk
+GATI,Compliant,0,609.0,Key Account,Retained,-1.0,-1.0,944.0,108.0,266235.0,0,0.437,0,0,Medium Risk
+GATI,Non-Compliant,1,99.0,Non Key Account,Retained,1.0,1.0,557.0,30.0,60000.0,0,0.665,1,0,High Risk
+DELHIVERY,Non-Compliant,1,1.0,Non Key Account,NCA,7.0,7.0,789.3,30.0,10977.0,1,0.671,1,1,High Risk
+GATI,Non-Compliant,1,1.0,Non Key Account,NCA,3.0,3.0,635.0,69.0,36400.0,0,0.742,1,0,High Risk
+V-XPRESS,Non-Compliant,1,62.0,Key Account,Retained,2.0,2.0,3534.64,76.0,34016.0,1,0.681,1,1,High Risk
+GATI,Non-Compliant,0,1.0,Non Key Account,Unknown,0.0,6.0,2195.45,95.0,40002.0,0,0.292,0,0,Low Risk
+Unknown,Non-Compliant,1,5.0,Non Key Account,Retained,5.0,5.0,930.0,100.0,43600.0,1,0.757,1,1,High Risk
+DELHIVERY,Non-Compliant,1,2.0,Non Key Account,NCA,4.0,4.0,720.0,56.0,38654.0,1,0.686,1,1,High Risk
+GATI,Compliant,0,23.0,Key Account,Retained,0.0,0.0,677.0,75.0,20798.0,0,0.221,0,0,Low Risk
+Unknown,Unknown,2,1.0,Non Key Account,NCA,0.0,0.0,157.0,100.0,13995.0,1,0.928,1,1,High Risk
+DELHIVERY,Compliant,0,1.0,Non Key Account,NCA,0.0,0.0,1935.0,240.0,193992.0,1,0.529,1,1,Medium Risk
+DELHIVERY,Compliant,0,29.0,Non Key Account,Retained,-3.0,-3.0,2642.0,50.0,21999.0,1,0.455,0,1,Medium Risk
+GATI,Non-Compliant,1,2.0,Non Key Account,Re-activated,5.0,5.0,1226.0,69.0,1000.0,1,0.67,1,1,High Risk
+GATI,Compliant,0,77.0,Key Account,Retained,-1.0,-1.0,498.0,50.0,10000.0,0,0.246,0,0,Low Risk
+Unknown,Compliant,0,144.0,Key Account,Retained,0.0,0.0,500.0,50.0,6320.0,1,0.438,0,1,Medium Risk
+GATI,Non-Compliant,1,92.0,Key Account,Retained,1.0,1.0,681.72,50.0,11800.0,0,0.378,0,0,Medium Risk
+DELHIVERY,Compliant,0,77.0,Key Account,Retained,-2.0,-2.0,1303.24,50.0,23600.0,0,0.209,0,0,Low Risk
+GATI,Compliant,0,145.0,Key Account,Retained,-1.0,-1.0,681.72,50.0,23600.0,1,0.27,0,1,Low Risk
+SCORPION,Compliant,0,20.0,Non Key Account,Retained,-1.0,-1.0,2597.0,250.0,54367.0,1,0.593,1,1,Medium Risk
+GATI,Compliant,0,508.0,Key Account,Retained,-3.0,-3.0,640.0,50.0,33665.0,0,0.43,0,0,Medium Risk
+DELHIVERY,Non-Compliant,1,17.0,Key Account,Retained,6.0,6.0,4701.55,290.0,35630.0,0,0.245,0,0,Low Risk
+DELHIVERY,Compliant,0,46.0,Non Key Account,Retained,-1.0,-1.0,595.0,28.0,35500.0,1,0.438,0,1,Medium Risk
+SCORPION,Compliant,0,33.0,Non Key Account,Retained,-1.0,-1.0,1998.0,265.0,1499544.0,0,0.502,1,0,Medium Risk
+GATI,Compliant,0,65.0,Non Key Account,Retained,-4.0,-4.0,1309.0,103.0,61758.0,1,0.524,1,1,Medium Risk
+GATI,Compliant,0,1.0,Non Key Account,NCA,0.0,0.0,715.0,4.0,708.0,1,0.636,1,1,High Risk
+DELHIVERY,Compliant,0,24.0,Non Key Account,Retained,0.0,0.0,597.0,20.0,30000.0,0,0.423,0,0,Medium Risk
+GATI,Compliant,0,330.0,Key Account,Retained,0.0,0.0,2039.0,200.0,45000.0,0,0.317,0,0,Medium Risk
+SCORPION,Unknown,2,79.0,Non Key Account,Retained,0.0,0.0,622.0,40.0,36887.0,1,0.864,1,1,High Risk
+V-XPRESS,Compliant,0,14.0,Non Key Account,Retained,-2.0,-2.0,868.0,25.0,36344.0,0,0.784,1,0,High Risk
+DELHIVERY,Non-Compliant,1,11.0,Non Key Account,Retained,3.0,3.0,581.0,63.0,31388.0,0,0.548,1,0,Medium Risk
+DELHIVERY,Compliant,0,9.0,Non Key Account,Retained,-1.0,-1.0,1773.0,135.0,50000.0,0,0.41,0,0,Medium Risk
+GATI,Compliant,0,749.0,Key Account,Retained,-5.0,-5.0,925.0,79.0,99380.0,1,0.546,1,1,Medium Risk
+GATI,Non-Compliant,1,9.0,Non Key Account,Re-activated,5.0,5.0,498.0,30.0,66363.0,1,0.671,1,1,High Risk
+DELHIVERY,Compliant,0,2.0,Non Key Account,Re-activated,-3.0,-3.0,2316.0,40.0,49000.0,0,0.519,1,0,Medium Risk
+SCORPION,Non-Compliant,1,1.0,Non Key Account,NCA,6.0,6.0,1821.0,60.0,15500.0,1,0.821,1,1,High Risk
+GATI,Compliant,0,15.0,Non Key Account,Retained,-1.0,-1.0,2430.0,165.0,331250.0,0,0.458,0,0,Medium Risk
+GATI,Compliant,0,752.0,Key Account,Retained,-1.0,-1.0,516.0,49.0,31313.0,1,0.524,1,1,Medium Risk
+SCORPION,Compliant,0,2.0,Non Key Account,Re-activated,-2.0,-2.0,593.1,70.0,500.0,1,0.685,1,1,High Risk
+DELHIVERY,Non-Compliant,1,34.0,Key Account,Retained,4.0,4.0,2045.0,34.0,442500.0,1,0.265,0,1,Low Risk
+GATI,Compliant,0,351.0,Key Account,Retained,0.0,0.0,2902.0,280.0,45000.0,0,0.318,0,0,Medium Risk
+GATI,Non-Compliant,1,2.0,Key Account,NCA,4.0,4.0,1335.0,152.0,215940.0,0,0.442,0,0,Medium Risk
+DELHIVERY,Compliant,0,2.0,Non Key Account,NCA,-9.0,-9.0,1997.0,20.0,15000.0,1,0.643,1,1,High Risk
+DELHIVERY,Non-Compliant,1,105.0,Key Account,Retained,1.0,1.0,5156.6,480.0,127065.0,1,0.278,0,1,Low Risk
+GATI,Compliant,0,35.0,Non Key Account,Retained,-3.0,-3.0,2407.0,201.0,34783.0,0,0.494,0,0,Medium Risk
+DELHIVERY,Compliant,0,24.0,Key Account,Retained,-6.0,-6.0,2575.8,220.0,79591.0,0,0.197,0,0,Low Risk
+DELHIVERY,Non-Compliant,1,289.0,Key Account,Retained,1.0,1.0,1849.5,155.0,69376.0,0,0.386,0,0,Medium Risk
+DELHIVERY,Compliant,0,87.0,Key Account,Retained,0.0,0.0,911.0,48.0,27909.0,0,0.2,0,0,Low Risk
+GATI,Compliant,0,1.0,Non Key Account,Unknown,-2.0,-3.0,623.2,19.0,2000.0,1,0.424,0,1,Medium Risk
+GATI,Non-Compliant,1,9.0,Key Account,Retained,7.0,7.0,557.0,50.0,10000.0,1,0.302,0,1,Medium Risk
+DELHIVERY,Non-Compliant,1,1.0,Non Key Account,NCA,16.0,16.0,477.0,75.0,20000.0,0,0.598,1,0,Medium Risk
+GATI,Compliant,0,510.0,Key Account,Retained,0.0,0.0,816.0,50.0,5000.0,0,0.411,0,0,Medium Risk
+GATI,Non-Compliant,1,1.0,Non Key Account,NCA,2.0,2.0,190.0,40.0,147065.0,1,0.745,1,1,High Risk
+DELHIVERY,Compliant,0,8.0,Non Key Account,Retained,-6.0,-6.0,1709.0,40.0,29500.0,0,0.464,0,0,Medium Risk
+DELHIVERY,Compliant,1,3.0,Non Key Account,Unknown,2.0,-6.0,1486.0,12.0,56700.0,1,0.614,1,1,High Risk
+V-XPRESS,Compliant,0,2.0,Non Key Account,Retained,0.0,0.0,862.0,55.0,195186.0,1,0.759,1,1,High Risk
+V-XPRESS,Non-Compliant,1,1.0,Non Key Account,NCA,1.0,1.0,3612.0,170.0,1377000.0,1,0.889,1,1,High Risk
+GATI,Non-Compliant,1,93.0,Non Key Account,Retained,2.0,2.0,557.0,35.0,68000.0,0,0.655,1,0,High Risk
+SCORPION,Non-Compliant,1,1.0,Non Key Account,NCA,2.0,2.0,630.0,58.0,44609.0,1,0.834,1,1,High Risk
+GATI,Compliant,0,2.0,Key Account,NCA,-3.0,-3.0,2704.0,360.0,168740.0,0,0.318,0,0,Medium Risk
+DELHIVERY,Compliant,0,18.0,Non Key Account,Retained,-4.0,-4.0,3170.0,130.0,41600.0,1,0.446,0,1,Medium Risk
+DELHIVERY,Non-Compliant,1,208.0,Key Account,Retained,1.0,1.0,3758.4,155.0,69376.0,0,0.362,0,0,Medium Risk
+GATI,Compliant,0,130.0,Non Key Account,Retained,0.0,0.0,800.0,75.0,148000.0,0,0.519,1,0,Medium Risk
+Unknown,Non-Compliant,1,18.0,Key Account,Retained,5.0,5.0,802.0,60.0,32926.0,1,0.504,1,1,Medium Risk
+GATI,Compliant,0,78.0,Key Account,Retained,0.0,0.0,636.0,50.0,15000.0,0,0.241,0,0,Low Risk
+Unknown,Non-Compliant,1,54.0,Non Key Account,Retained,5.0,5.0,2350.0,90.0,47200.0,1,0.78,1,1,High Risk
+GATI,Non-Compliant,1,15.0,Non Key Account,Re-activated,1.0,1.0,537.0,40.0,37760.0,0,0.7,1,0,High Risk
+GATI,Compliant,0,362.0,Key Account,Retained,0.0,0.0,1131.0,100.0,15000.0,0,0.342,0,0,Medium Risk
+DELHIVERY,Compliant,0,4.0,Non Key Account,Unknown,0.0,-1.0,923.4,37.0,35018.0,0,0.346,0,0,Medium Risk
+DELHIVERY,Non-Compliant,1,1.0,Non Key Account,NCA,3.0,3.0,545.0,35.0,8142.0,1,0.696,1,1,High Risk
+GATI,Compliant,0,1.0,Non Key Account,Unknown,0.0,0.0,617.0,25.0,42000.0,1,0.398,0,1,Medium Risk
+GATI,Non-Compliant,1,11.0,Non Key Account,Re-activated,11.0,11.0,736.0,15.0,86000.0,1,0.632,1,1,High Risk
+DELHIVERY,Compliant,0,182.0,Key Account,Retained,0.0,0.0,2398.5,155.0,69376.0,0,0.221,0,0,Low Risk
+SCORPION,Compliant,0,49.0,Non Key Account,Retained,-1.0,-1.0,1162.0,133.0,739407.0,1,0.574,1,1,Medium Risk
+GATI,Compliant,0,48.0,Non Key Account,Retained,-2.0,-2.0,2206.0,170.0,120002.0,0,0.491,0,0,Medium Risk
+GATI,Compliant,0,6.0,Key Account,NCA,-1.0,-1.0,3298.0,36.0,10000.0,0,0.367,0,0,Medium Risk
+GATI,Compliant,0,424.0,Key Account,Retained,0.0,0.0,944.0,81.0,143513.0,0,0.362,0,0,Medium Risk
+GATI,Compliant,0,27.0,Non Key Account,Retained,-1.0,-1.0,2811.0,150.0,241900.0,0,0.473,0,0,Medium Risk
+Unknown,Compliant,0,59.0,Non Key Account,Retained,-3.0,-3.0,3526.0,301.0,34783.0,1,0.681,1,1,High Risk
+GATI,Compliant,0,366.0,Key Account,Retained,-3.0,-3.0,598.0,40.0,10000.0,0,0.371,0,0,Medium Risk
+DELHIVERY,Non-Compliant,1,82.0,Key Account,Retained,4.0,4.0,2080.8,220.0,79591.0,0,0.275,0,0,Low Risk
+GATI,Non-Compliant,1,1.0,Non Key Account,NCA,1.0,1.0,11420.0,1405.0,1229625.0,1,0.539,1,1,Medium Risk
+GATI,Non-Compliant,1,7.0,Non Key Account,NCA,3.0,3.0,1059.0,63.0,56766.0,1,0.746,1,1,High Risk
+SCORPION,Non-Compliant,1,15.0,Key Account,Retained,7.0,7.0,1470.0,120.0,44542.0,0,0.416,0,0,Medium Risk
+SCORPION,Non-Compliant,1,22.0,Key Account,Retained,4.0,4.0,4550.0,180.0,94695.0,0,0.446,0,0,Medium Risk
+GATI,Compliant,0,106.0,Non Key Account,Retained,0.0,0.0,585.0,45.0,105492.0,0,0.515,1,0,Medium Risk
+GATI,Compliant,0,597.0,Key Account,Retained,-6.0,-6.0,1429.0,50.0,20000.0,0,0.498,0,0,Medium Risk
+DELHIVERY,Compliant,0,37.0,Non Key Account,Retained,-5.0,-5.0,2842.0,50.0,23600.0,0,0.475,0,0,Medium Risk
+DELHIVERY,Compliant,0,16.0,Non Key Account,Unknown,0.0,-8.0,1846.0,45.0,125640.0,1,0.398,0,1,Medium Risk
+GATI,Compliant,0,577.0,Key Account,Retained,-2.0,-2.0,749.0,60.0,25394.0,0,0.453,0,0,Medium Risk
+DELHIVERY,Compliant,0,5.0,Non Key Account,Retained,0.0,0.0,981.75,108.0,49437.0,0,0.401,0,0,Medium Risk
+Unknown,Non-Compliant,1,32.0,Key Account,Re-activated,13.0,13.0,3849.0,115.0,122490.0,1,0.53,1,1,Medium Risk
+DELHIVERY,Compliant,0,16.0,Non Key Account,Retained,-8.0,-8.0,3271.0,45.0,20999.0,0,0.492,0,0,Medium Risk
+DELHIVERY,Non-Compliant,1,21.0,Key Account,Retained,1.0,1.0,2768.0,195.0,242250.0,1,0.27,0,1,Low Risk
+V-XPRESS,Non-Compliant,1,63.0,Key Account,Retained,9.0,9.0,1989.96,57.0,24671.0,1,0.628,1,1,High Risk
+SCORPION,Compliant,0,115.0,Key Account,Retained,-2.0,-2.0,3879.0,400.0,94819.0,1,0.336,0,1,Medium Risk
+DELHIVERY,Compliant,0,2.0,Non Key Account,Retained,-4.0,-4.0,1469.0,55.0,47372.0,1,0.441,0,1,Medium Risk
+GATI,Non-Compliant,1,346.0,Key Account,Retained,4.0,4.0,1085.0,70.0,20000.0,0,0.465,0,0,Medium Risk
+GATI,Compliant,0,229.0,Key Account,Retained,0.0,0.0,577.0,50.0,15000.0,0,0.294,0,0,Low Risk
+DELHIVERY,Non-Compliant,1,40.0,Non Key Account,Retained,14.0,14.0,722.0,30.0,29700.0,0,0.483,0,0,Medium Risk
+DELHIVERY,Compliant,0,71.0,Key Account,Retained,-7.0,-7.0,1298.0,85.0,39560.0,0,0.228,0,0,Low Risk
+DELHIVERY,Compliant,0,52.0,Non Key Account,Retained,-1.0,-1.0,1120.0,73.0,39946.0,1,0.436,0,1,Medium Risk
+GATI,Compliant,0,515.0,Key Account,Retained,-1.0,-1.0,516.0,50.0,23396.0,0,0.418,0,0,Medium Risk
+GATI,Non-Compliant,1,14.0,Non Key Account,Retained,4.0,4.0,1199.85,50.0,9332.0,1,0.612,1,1,High Risk
+GATI,Non-Compliant,1,1.0,Non Key Account,NCA,3.0,3.0,672.0,22.0,2242.0,1,0.75,1,1,High Risk
+Unknown,Unknown,2,3.0,Non Key Account,Retained,0.0,0.0,904.0,100.0,7447.0,1,0.875,1,1,High Risk
+DELHIVERY,Compliant,0,6.0,Non Key Account,Re-activated,-2.0,-2.0,1656.0,120.0,275206.0,0,0.481,0,0,Medium Risk
+GATI,Non-Compliant,1,475.0,Key Account,Retained,1.0,1.0,640.0,50.0,161896.0,0,0.538,1,0,Medium Risk
+DELHIVERY,Compliant,0,263.0,Key Account,Retained,-8.0,-8.0,3144.6,155.0,69376.0,0,0.299,0,0,Low Risk
+DELHIVERY,Non-Compliant,1,2.0,Non Key Account,NCA,6.0,6.0,1370.0,90.0,38256.0,0,0.67,1,0,High Risk
+GATI,Non-Compliant,1,494.0,Key Account,Retained,2.0,2.0,837.0,70.0,131269.0,0,0.539,1,0,Medium Risk
+GATI,Unknown,2,8.0,Non Key Account,NCA,0.0,0.0,3050.0,210.0,286209.0,1,0.847,1,1,High Risk
+GATI,Compliant,0,2.0,Non Key Account,NCA,-1.0,-1.0,1097.0,50.0,10763.0,1,0.637,1,1,High Risk
+GATI,Compliant,0,94.0,Key Account,Retained,0.0,0.0,1858.4,170.0,49560.0,0,0.235,0,0,Low Risk
+DELHIVERY,Non-Compliant,1,21.0,Non Key Account,Retained,1.0,1.0,1865.0,56.0,40000.0,0,0.575,1,0,Medium Risk
+DELHIVERY,Non-Compliant,1,15.0,Key Account,Retained,1.0,1.0,7702.6,400.0,365000.0,0,0.257,0,0,Low Risk
+DELHIVERY,Compliant,0,29.0,Non Key Account,Retained,-2.0,-2.0,898.0,17.0,25006.0,0,0.443,0,0,Medium Risk
+DELHIVERY,Compliant,0,20.0,Non Key Account,Retained,-1.0,-1.0,759.0,38.0,112336.0,0,0.421,0,0,Medium Risk
+GATI,Compliant,0,2.0,Non Key Account,Retained,-2.0,-2.0,1663.0,130.0,49600.0,1,0.479,0,1,Medium Risk
+DELHIVERY,Compliant,0,7.0,Non Key Account,NCA,0.0,0.0,980.0,25.0,48000.0,0,0.571,1,0,Medium Risk
+GATI,Non-Compliant,1,22.0,Non Key Account,Retained,1.0,1.0,677.0,75.0,59121.0,0,0.627,1,0,High Risk
+SCORPION,Compliant,0,44.0,Key Account,Retained,0.0,0.0,928.0,125.0,10000.0,0,0.325,0,0,Medium Risk
+DELHIVERY,Non-Compliant,1,1.0,Non Key Account,NCA,1.0,1.0,1065.0,110.0,233994.0,0,0.688,1,0,High Risk
+GATI,Compliant,0,7.0,Key Account,Retained,0.0,0.0,680.0,37.0,41115.0,0,0.219,0,0,Low Risk
+DELHIVERY,Compliant,0,37.0,Key Account,Retained,-3.0,-3.0,643.0,33.0,46500.0,0,0.201,0,0,Low Risk
+GATI,Compliant,0,106.0,Key Account,Retained,-1.0,-1.0,841.0,65.0,20000.0,1,0.255,0,1,Low Risk
+GATI,Compliant,0,41.0,Key Account,Re-activated,0.0,0.0,2620.0,55.0,24426.0,0,0.298,0,0,Low Risk
+GATI,Compliant,0,80.0,Non Key Account,Retained,0.0,0.0,557.0,45.0,90000.0,0,0.504,1,0,Medium Risk
+GATI,Compliant,0,2.0,Non Key Account,NCA,0.0,0.0,420.0,50.0,10000.0,0,0.627,1,0,High Risk
+DELHIVERY,Non-Compliant,1,128.0,Key Account,Retained,5.0,5.0,2073.6,155.0,69376.0,0,0.295,0,0,Low Risk
+GATI,Non-Compliant,1,16.0,Key Account,Retained,4.0,4.0,10887.3,1680.0,144516.0,0,0.163,0,0,Low Risk
+GATI,Compliant,0,628.0,Key Account,Retained,-3.0,-3.0,640.0,50.0,26119.0,0,0.484,0,0,Medium Risk
+GATI,Compliant,0,12.0,Non Key Account,Retained,0.0,0.0,3604.0,210.0,213580.0,1,0.455,0,1,Medium Risk
+DELHIVERY,Compliant,0,46.0,Key Account,Retained,-4.0,-4.0,1241.0,80.0,223250.0,0,0.198,0,0,Low Risk
+DELHIVERY,Compliant,0,144.0,Key Account,Retained,0.0,0.0,1243.0,98.0,30680.0,1,0.213,0,1,Low Risk
+GATI,Compliant,0,21.0,Key Account,Retained,-1.0,-1.0,577.0,40.0,38500.0,0,0.228,0,0,Low Risk
+GATI,Compliant,0,4.0,Non Key Account,Retained,0.0,0.0,370.2,60.0,29500.0,1,0.47,0,1,Medium Risk
+DELHIVERY,Non-Compliant,1,39.0,Key Account,Retained,8.0,8.0,1369.8,155.0,69377.0,0,0.242,0,0,Low Risk
+DELHIVERY,Compliant,0,358.0,Key Account,Retained,-7.0,-7.0,3214.48,155.0,69376.0,1,0.33,0,1,Medium Risk
+DELHIVERY,Compliant,0,3.0,Key Account,NCA,-1.0,-1.0,736.0,70.0,67840.0,0,0.288,0,0,Low Risk
+GATI,Compliant,0,268.0,Key Account,Retained,-2.0,-2.0,917.0,70.0,10000.0,0,0.322,0,0,Medium Risk
+GATI,Non-Compliant,1,187.0,Key Account,Retained,7.0,7.0,1565.0,150.0,45000.0,0,0.362,0,0,Medium Risk
+DELHIVERY,Compliant,0,8.0,Key Account,Retained,-1.0,-1.0,2254.0,170.0,49500.0,0,0.175,0,0,Low Risk
+Unknown,Non-Compliant,1,2.0,Non Key Account,Re-activated,4.0,4.0,715.0,26.0,16520.0,1,0.822,1,1,High Risk
+GATI,Compliant,0,725.0,Key Account,Retained,0.0,0.0,516.0,50.0,283200.0,1,0.488,0,1,Medium Risk
+DELHIVERY,Non-Compliant,1,1.0,Non Key Account,NCA,2.0,2.0,2204.1,128.0,33412.0,0,0.695,1,0,High Risk
+DELHIVERY,Compliant,0,11.0,Key Account,Retained,-1.0,-1.0,19996.0,420.0,648000.0,0,0.189,0,0,Low Risk
+GATI,Non-Compliant,1,11.0,Non Key Account,Retained,4.0,4.0,1597.0,65.0,56466.0,0,0.608,1,0,High Risk
+GATI,Compliant,0,548.0,Key Account,Retained,-3.0,-3.0,659.0,52.0,264320.0,0,0.433,0,0,Medium Risk
+GATI,Compliant,0,2.0,Non Key Account,Retained,0.0,0.0,108.0,85.0,10019.0,1,0.465,0,1,Medium Risk
+DELHIVERY,Compliant,0,138.0,Key Account,Retained,-1.0,-1.0,948.52,30.0,55440.0,1,0.222,0,1,Low Risk
+SCORPION,Non-Compliant,1,3.0,Non Key Account,NCA,3.0,3.0,598.5,52.0,49501.0,1,0.83,1,1,High Risk
+GATI,Non-Compliant,1,18.0,Non Key Account,Retained,3.0,3.0,498.0,50.0,31501.0,0,0.616,1,0,High Risk
+DELHIVERY,Non-Compliant,1,5.0,Non Key Account,Re-activated,3.0,3.0,3025.0,355.0,45182.0,0,0.587,1,0,Medium Risk
+GATI,Compliant,0,26.0,Key Account,Retained,0.0,0.0,1396.0,90.0,208598.0,0,0.215,0,0,Low Risk
+GATI,Compliant,0,20.0,Non Key Account,Retained,0.0,0.0,1246.0,103.0,25000.0,0,0.475,0,0,Medium Risk
+GATI,Compliant,0,1.0,Non Key Account,NCA,0.0,0.0,45006.0,2000.0,122323.0,1,0.547,1,1,Medium Risk
+GATI,Non-Compliant,1,8.0,Key Account,Re-activated,5.0,5.0,3319.0,195.0,17700.0,1,0.378,0,1,Medium Risk
+SCORPION,Non-Compliant,1,4.0,Non Key Account,Retained,2.0,2.0,846.0,58.0,20640.0,0,0.731,1,0,High Risk
+DELHIVERY,Compliant,0,17.0,Non Key Account,Retained,-1.0,-1.0,1533.0,50.0,20999.0,0,0.428,0,0,Medium Risk
+DELHIVERY,Compliant,0,91.0,Non Key Account,Retained,-7.0,-7.0,10658.0,49.0,80000.0,1,0.556,1,1,Medium Risk
+SCORPION,Compliant,0,11.0,Key Account,NCA,0.0,0.0,1124.0,70.0,270852.0,1,0.454,0,1,Medium Risk
+GATI,Compliant,0,605.0,Key Account,Retained,0.0,0.0,640.0,50.0,30090.0,0,0.451,0,0,Medium Risk
+GATI,Compliant,0,33.0,Key Account,Re-activated,0.0,0.0,1780.0,37.0,16284.0,0,0.294,0,0,Low Risk
+SCORPION,Compliant,0,1.0,Non Key Account,NCA,-1.0,-1.0,6981.0,960.0,245440.0,1,0.631,1,1,High Risk
+GATI,Unknown,2,78.0,Non Key Account,Retained,0.0,0.0,1813.0,148.0,33340.0,1,0.783,1,1,High Risk
+DELHIVERY,Compliant,0,2.0,Key Account,Retained,0.0,0.0,1883.0,66.0,25000.0,0,0.179,0,0,Low Risk
+GATI,Compliant,0,811.0,Key Account,Retained,-1.0,-1.0,640.0,45.0,30090.0,1,0.552,1,1,Medium Risk
+GATI,Compliant,0,20.0,Non Key Account,Retained,0.0,0.0,680.0,50.0,49053.0,0,0.479,0,0,Medium Risk
+GATI,Non-Compliant,1,8.0,Key Account,Retained,5.0,5.0,1651.0,108.0,332800.0,0,0.295,0,0,Low Risk
+SCORPION,Compliant,0,3.0,Non Key Account,Re-activated,0.0,0.0,1939.0,225.0,23010.0,0,0.654,1,0,High Risk
+GATI,Compliant,0,67.0,Key Account,Retained,-2.0,-2.0,696.0,45.0,1921375.0,0,0.17,0,0,Low Risk
+DELHIVERY,Compliant,0,56.0,Key Account,Retained,-7.0,-7.0,3466.8,185.0,73185.0,0,0.219,0,0,Low Risk
+GATI,Compliant,0,42.0,Non Key Account,Retained,0.0,0.0,656.0,22.0,34000.0,0,0.495,0,0,Medium Risk
+DELHIVERY,Non-Compliant,1,305.0,Key Account,Retained,2.0,2.0,2149.2,155.0,69376.0,0,0.388,0,0,Medium Risk
+GATI,Compliant,0,122.0,Key Account,Retained,0.0,0.0,543.0,1.0,1000.0,1,0.263,0,1,Low Risk
+GATI,Compliant,0,23.0,Key Account,Retained,0.0,0.0,4380.0,100.0,5000.0,1,0.233,0,1,Low Risk
+GATI,Compliant,0,14.0,Key Account,NCA,0.0,0.0,2054.0,36.0,10000.0,0,0.357,0,0,Medium Risk
+GATI,Compliant,0,176.0,Non Key Account,Retained,0.0,0.0,3429.0,375.0,879100.0,1,0.458,0,1,Medium Risk
+GATI,Compliant,0,450.0,Key Account,Retained,0.0,0.0,719.0,58.0,125552.0,0,0.376,0,0,Medium Risk
+GATI,Compliant,0,37.0,Key Account,Retained,0.0,0.0,617.0,35.0,5000.0,0,0.23,0,0,Low Risk
+DELHIVERY,Compliant,0,1.0,Non Key Account,NCA,-1.0,-1.0,36096.25,2850.0,995807.0,1,0.26,0,1,Low Risk
+V-XPRESS,Compliant,0,15.0,Non Key Account,Retained,-2.0,-2.0,868.0,20.0,36344.0,0,0.785,1,0,High Risk
+GATI,Compliant,0,257.0,Key Account,Retained,-3.0,-3.0,696.0,25.0,1831192.0,0,0.236,0,0,Low Risk
+DELHIVERY,Compliant,0,44.0,Key Account,Retained,-1.0,-1.0,2582.0,60.0,105000.0,0,0.195,0,0,Low Risk
+DELHIVERY,Non-Compliant,1,23.0,Non Key Account,Retained,3.0,3.0,842.0,27.0,5709.0,1,0.562,1,1,Medium Risk
+SCORPION,Non-Compliant,1,7.0,Non Key Account,Retained,1.0,1.0,3166.0,190.0,580125.0,1,0.703,1,1,High Risk
+Unknown,Non-Compliant,1,72.0,Key Account,Retained,1.0,1.0,757.0,20.0,15859.0,1,0.566,1,1,Medium Risk
+GATI,Compliant,0,357.0,Key Account,Retained,0.0,0.0,1516.0,139.0,529230.0,0,0.307,0,0,Medium Risk
+GATI,Compliant,0,1.0,Key Account,NCA,0.0,0.0,3278.0,250.0,57230.0,1,0.323,0,1,Medium Risk
+SCORPION,Compliant,0,8.0,Key Account,Retained,0.0,0.0,1131.0,120.0,47200.0,0,0.311,0,0,Medium Risk
+GATI,Non-Compliant,1,2.0,Non Key Account,Re-activated,3.0,3.0,4500.15,320.0,100000.0,1,0.657,1,1,High Risk
+V-XPRESS,Non-Compliant,1,25.0,Non Key Account,Retained,4.0,4.0,4216.0,250.0,45000.0,1,0.845,1,1,High Risk
+GATI,Compliant,0,15.0,Non Key Account,Retained,-3.0,-3.0,1091.0,100.0,60857.0,0,0.493,0,0,Medium Risk
+DELHIVERY,Non-Compliant,1,1.0,Non Key Account,NCA,4.0,4.0,827.0,6.0,16500.0,1,0.694,1,1,High Risk
+Unknown,Non-Compliant,1,75.0,Key Account,Retained,4.0,4.0,757.0,20.0,15859.0,1,0.545,1,1,Medium Risk
+DELHIVERY,Compliant,0,7.0,Non Key Account,Retained,-2.0,-2.0,1299.0,80.0,49000.0,1,0.423,0,1,Medium Risk
+GATI,Non-Compliant,1,61.0,Key Account,Retained,1.0,1.0,1446.0,150.0,45000.0,0,0.351,0,0,Medium Risk
+V-XPRESS,Non-Compliant,1,64.0,Key Account,Retained,8.0,8.0,2637.64,76.0,37380.0,1,0.635,1,1,High Risk
+DELHIVERY,Compliant,0,1.0,Non Key Account,NCA,0.0,0.0,34.0,100.0,38800.0,0,0.551,1,0,Medium Risk
+GATI,Non-Compliant,0,2.0,Non Key Account,Unknown,-1.0,2.0,1170.0,100.0,75520.0,0,0.31,0,0,Medium Risk
+DELHIVERY,Compliant,0,40.0,Key Account,Retained,-4.0,-4.0,729.6,68.0,30000.0,0,0.204,0,0,Low Risk
+DELHIVERY,Non-Compliant,1,4.0,Non Key Account,Re-activated,1.0,1.0,934.0,30.0,11800.0,1,0.644,1,1,High Risk
+GATI,Non-Compliant,1,53.0,Key Account,Retained,1.0,1.0,1186.0,120.0,15000.0,0,0.353,0,0,Medium Risk
+GATI,Non-Compliant,1,2.0,Non Key Account,Retained,2.0,2.0,577.2,145.0,112613.0,0,0.596,1,0,Medium Risk
+DELHIVERY,Non-Compliant,1,180.0,Key Account,Retained,7.0,7.0,3177.9,155.0,69376.0,0,0.307,0,0,Medium Risk
+GATI,Compliant,0,201.0,Key Account,Retained,0.0,0.0,577.0,50.0,10000.0,0,0.284,0,0,Low Risk
+GATI,Non-Compliant,1,46.0,Non Key Account,Retained,3.0,3.0,742.0,45.0,20752.0,0,0.63,1,0,High Risk
+DELHIVERY,Compliant,0,3.0,Non Key Account,Retained,-5.0,-5.0,2879.0,290.0,35000.0,1,0.419,0,1,Medium Risk
+DELHIVERY,Non-Compliant,1,5.0,Non Key Account,NCA,1.0,1.0,1793.0,45.0,19799.0,0,0.714,1,0,High Risk
+GATI,Compliant,0,592.0,Key Account,Retained,-1.0,-1.0,1376.0,125.0,175230.0,0,0.435,0,0,Medium Risk
+GATI,Non-Compliant,1,2.0,Non Key Account,Retained,4.0,4.0,617.0,30.0,165672.0,0,0.597,1,0,Medium Risk
+SCORPION,Compliant,0,4.0,Non Key Account,NCA,-1.0,-1.0,571.0,10.0,11989.0,0,0.751,1,0,High Risk
+V-XPRESS,Unknown,2,74.0,Key Account,Retained,0.0,0.0,5025.96,114.0,56070.0,1,0.817,1,1,High Risk
+DELHIVERY,Compliant,0,55.0,Non Key Account,Retained,-1.0,-1.0,997.0,50.0,42303.0,0,0.44,0,0,Medium Risk
+V-XPRESS,Non-Compliant,1,1.0,Non Key Account,NCA,7.0,7.0,3390.0,340.0,1008312.0,1,0.866,1,1,High Risk
+DELHIVERY,Compliant,0,4.0,Non Key Account,Retained,0.0,0.0,6700.0,529.0,973322.0,0,0.312,0,0,Medium Risk
+DELHIVERY,Non-Compliant,1,83.0,Key Account,Retained,2.0,2.0,1860.5,128.0,54628.0,0,0.301,0,0,Medium Risk
+GATI,Compliant,0,409.0,Key Account,Retained,-1.0,-1.0,3361.0,240.0,45000.0,0,0.356,0,0,Medium Risk
+GATI,Non-Compliant,1,6.0,Key Account,NCA,3.0,3.0,5240.7,435.0,284299.0,0,0.422,0,0,Medium Risk
+GATI,Compliant,0,75.0,Non Key Account,Retained,0.0,0.0,557.0,32.0,78352.0,0,0.505,1,0,Medium Risk
+V-XPRESS,Non-Compliant,1,3.0,Non Key Account,NCA,3.0,3.0,1086.0,63.0,79478.0,1,0.914,1,1,High Risk
+DELHIVERY,Non-Compliant,1,83.0,Key Account,Retained,4.0,4.0,2831.4,185.0,73185.0,0,0.284,0,0,Low Risk
+GATI,Compliant,0,799.0,Key Account,Retained,-3.0,-3.0,729.0,59.0,157058.0,1,0.552,1,1,Medium Risk
+SCORPION,Compliant,0,54.0,Key Account,Re-activated,-4.0,-4.0,639.0,73.0,6059.0,0,0.439,0,0,Medium Risk
+GATI,Compliant,0,535.0,Key Account,Retained,-5.0,-5.0,598.0,50.0,52817.0,0,0.456,0,0,Medium Risk
+DELHIVERY,Compliant,0,2.0,Non Key Account,NCA,-1.0,-1.0,1455.0,128.0,16000.0,0,0.564,1,0,Medium Risk
+Unknown,Compliant,0,118.0,Key Account,Retained,-2.0,-2.0,2001.0,160.0,35400.0,1,0.43,0,1,Medium Risk
+DELHIVERY,Compliant,0,6.0,Non Key Account,Retained,0.0,0.0,935.0,25.0,2655.0,0,0.418,0,0,Medium Risk
+GATI,Non-Compliant,1,7.0,Key Account,Retained,5.0,5.0,893.0,45.0,32042.0,0,0.316,0,0,Medium Risk
+DELHIVERY,Compliant,0,22.0,Non Key Account,Retained,-3.0,-3.0,3209.0,45.0,20999.0,0,0.456,0,0,Medium Risk
+GATI,Compliant,0,1.0,Non Key Account,NCA,-6.0,-6.0,560.0,130.0,765000.0,1,0.612,1,1,High Risk
+GATI,Compliant,0,34.0,Non Key Account,Retained,0.0,0.0,925.0,110.0,87717.0,0,0.474,0,0,Medium Risk
+DELHIVERY,Unknown,2,385.0,Key Account,Retained,0.0,0.0,2541.96,155.0,69376.0,1,0.6,1,1,Medium Risk
+GATI,Non-Compliant,1,261.0,Key Account,Retained,3.0,3.0,1328.0,125.0,223776.0,0,0.414,0,0,Medium Risk
+GATI,Compliant,0,93.0,Key Account,Retained,-2.0,-2.0,3220.0,120.0,57000.0,0,0.258,0,0,Low Risk
+DELHIVERY,Compliant,1,6.0,Non Key Account,Unknown,1.0,-2.0,1435.0,35.0,5900.0,0,0.586,1,0,Medium Risk
+DELHIVERY,Compliant,0,1.0,Non Key Account,Unknown,-2.0,-3.0,16.0,53.0,52880.0,1,0.35,0,1,Medium Risk
+DELHIVERY,Compliant,0,9.0,Key Account,Retained,-2.0,-2.0,1643.0,202.0,122951.0,0,0.171,0,0,Low Risk
+GATI,Compliant,0,30.0,Non Key Account,Retained,-1.0,-1.0,2307.55,203.0,34783.0,0,0.476,0,0,Medium Risk
+Unknown,Non-Compliant,1,12.0,Key Account,Retained,3.0,3.0,5300.0,352.0,1331240.0,1,0.411,0,1,Medium Risk
+SCORPION,Compliant,0,1.0,Non Key Account,NCA,-3.0,-3.0,571.0,5.0,11497.0,1,0.762,1,1,High Risk
+DELHIVERY,Compliant,0,90.0,Non Key Account,Retained,-1.0,-1.0,2308.0,50.0,35000.0,1,0.464,0,1,Medium Risk
+DELHIVERY,Non-Compliant,1,27.0,Non Key Account,Retained,6.0,6.0,1152.0,90.0,46256.0,0,0.53,1,0,Medium Risk
+SCORPION,Non-Compliant,1,1.0,Non Key Account,NCA,6.0,6.0,4586.0,760.0,345931.0,1,0.736,1,1,High Risk
+SCORPION,Non-Compliant,1,1.0,Non Key Account,NCA,2.0,2.0,789.0,85.0,11246.0,1,0.833,1,1,High Risk
+DELHIVERY,Non-Compliant,0,3.0,Non Key Account,Unknown,0.0,2.0,738.0,40.0,25000.0,0,0.266,0,0,Low Risk
+SCORPION,Non-Compliant,1,1.0,Non Key Account,NCA,4.0,4.0,4571.0,500.0,97699.0,1,0.791,1,1,High Risk
+DELHIVERY,Compliant,0,58.0,Key Account,Retained,0.0,0.0,4561.0,180.0,105568.0,0,0.188,0,0,Low Risk
+GATI,Non-Compliant,1,1.0,Non Key Account,NCA,38.0,38.0,1733.0,55.0,26730.0,1,0.505,1,1,Medium Risk
+DELHIVERY,Compliant,0,2.0,Non Key Account,NCA,-1.0,-1.0,3826.0,70.0,28672.0,1,0.586,1,1,Medium Risk
+V-XPRESS,Compliant,0,35.0,Non Key Account,Retained,0.0,0.0,2322.0,150.0,47200.0,0,0.771,1,0,High Risk
+DELHIVERY,Non-Compliant,1,151.0,Key Account,Retained,16.0,16.0,3542.4,220.0,79591.0,0,0.235,0,0,Low Risk
+GATI,Compliant,0,5.0,Key Account,Retained,-4.0,-4.0,3943.45,390.0,268800.0,0,0.202,0,0,Low Risk
+SCORPION,Non-Compliant,1,2.0,Non Key Account,Re-activated,1.0,1.0,954.0,100.0,63367.0,0,0.787,1,0,High Risk
+GATI,Non-Compliant,1,13.0,Non Key Account,Retained,4.0,4.0,629.0,5.0,16107.0,0,0.615,1,0,High Risk
+DELHIVERY,Compliant,0,170.0,Key Account,Retained,0.0,0.0,3177.9,155.0,69376.0,0,0.22,0,0,Low Risk
+GATI,Non-Compliant,1,123.0,Non Key Account,Retained,1.0,1.0,585.0,30.0,74340.0,0,0.674,1,0,High Risk
+SCORPION,Compliant,0,2.0,Non Key Account,Retained,-1.0,-1.0,388.0,160.0,393771.0,0,0.566,1,0,Medium Risk
+GATI,Non-Compliant,1,69.0,Non Key Account,Retained,1.0,1.0,1566.0,105.0,34521.0,1,0.648,1,1,High Risk
+V-XPRESS,Non-Compliant,1,33.0,Key Account,Retained,10.0,10.0,2485.0,40.0,42367.0,0,0.612,1,0,High Risk
+DELHIVERY,Compliant,0,4.0,Non Key Account,NCA,-9.0,-9.0,3161.0,45.0,19799.0,0,0.646,1,0,High Risk
+DELHIVERY,Unknown,2,129.0,Key Account,Retained,0.0,0.0,2263.2,245.0,47200.0,1,0.471,0,1,Medium Risk
+DELHIVERY,Compliant,0,127.0,Key Account,Retained,-2.0,-2.0,6051.0,290.0,148190.0,0,0.21,0,0,Low Risk
+DELHIVERY,Compliant,0,147.0,Key Account,Retained,0.0,0.0,890.0,40.0,21200.0,1,0.219,0,1,Low Risk
+GATI,Non-Compliant,1,1.0,Non Key Account,Unknown,1.0,4.0,1170.0,100.0,76360.0,0,0.517,1,0,Medium Risk
+DELHIVERY,Non-Compliant,1,1.0,Non Key Account,NCA,1.0,1.0,1419.0,50.0,40132.0,1,0.709,1,1,High Risk
+DELHIVERY,Unknown,2,6.0,Key Account,Retained,0.0,0.0,700.0,50.0,32813.0,1,0.441,0,1,Medium Risk
+GATI,Non-Compliant,1,96.0,Key Account,Retained,3.0,3.0,3405.75,466.0,394250.0,0,0.295,0,0,Low Risk
+DELHIVERY,Compliant,0,24.0,Key Account,Retained,0.0,0.0,14100.0,656.0,1312000.0,0,0.126,0,0,Low Risk
+GATI,Compliant,0,11.0,Non Key Account,Unknown,0.0,-1.0,6291.0,200.0,61634.0,0,0.411,0,0,Medium Risk
+GATI,Compliant,0,144.0,Key Account,Retained,-2.0,-2.0,1471.0,140.0,35000.0,0,0.267,0,0,Low Risk
+DELHIVERY,Compliant,0,147.0,Key Account,Retained,-1.0,-1.0,2686.5,155.0,69376.0,0,0.216,0,0,Low Risk
+DELHIVERY,Compliant,0,26.0,Non Key Account,Retained,-6.0,-6.0,1652.0,75.0,9800.0,0,0.467,0,0,Medium Risk
+GATI,Non-Compliant,1,2.0,Key Account,NCA,6.0,6.0,656.0,15.0,8000.0,0,0.459,0,0,Medium Risk
+GATI,Compliant,0,810.0,Key Account,Retained,-2.0,-2.0,516.0,45.0,28808.0,1,0.558,1,1,Medium Risk
+DELHIVERY,Non-Compliant,1,9.0,Key Account,Retained,36.0,36.0,10255.25,700.0,367410.0,0,0.091,0,0,Low Risk
+GATI,Non-Compliant,1,19.0,Non Key Account,Retained,2.0,2.0,1996.9,110.0,25376.0,1,0.622,1,1,High Risk
+DELHIVERY,Compliant,0,1.0,Key Account,NCA,0.0,0.0,3699.0,371.0,130410.0,1,0.251,0,1,Low Risk
+V-XPRESS,Non-Compliant,1,12.0,Non Key Account,Retained,11.0,11.0,3017.0,170.0,442563.0,0,0.8,1,0,High Risk
+GATI,Non-Compliant,1,359.0,Key Account,Retained,2.0,2.0,1032.0,120.0,25000.0,0,0.477,0,0,Medium Risk
+GATI,Non-Compliant,1,27.0,Non Key Account,Retained,1.0,1.0,741.0,25.0,18000.0,0,0.64,1,0,High Risk
+GATI,Compliant,0,51.0,Non Key Account,Retained,-2.0,-2.0,537.0,40.0,80800.0,0,0.508,1,0,Medium Risk
+V-XPRESS,Non-Compliant,1,89.0,Key Account,Retained,9.0,9.0,1592.12,38.0,18690.0,1,0.64,1,1,High Risk
+GATI,Compliant,0,38.0,Key Account,Retained,-2.0,-2.0,577.0,45.0,5000.0,0,0.24,0,0,Low Risk
+DELHIVERY,Compliant,0,11.0,Non Key Account,Retained,-2.0,-2.0,1604.0,103.0,414180.0,0,0.4,0,0,Medium Risk
+V-XPRESS,Non-Compliant,1,60.0,Non Key Account,Retained,2.0,2.0,4289.0,400.0,248640.0,0,0.842,1,0,High Risk
+DELHIVERY,Non-Compliant,1,1.0,Non Key Account,NCA,2.0,2.0,2904.15,175.0,37760.0,1,0.692,1,1,High Risk
+Unknown,Non-Compliant,1,19.0,Key Account,Retained,18.0,18.0,647.0,48.0,27858.0,1,0.407,0,1,Medium Risk
+DELHIVERY,Compliant,0,135.0,Key Account,Retained,-2.0,-2.0,624.68,32.0,113526.0,1,0.222,0,1,Low Risk
+GATI,Compliant,0,252.0,Key Account,Retained,-4.0,-4.0,498.0,50.0,30528.0,0,0.328,0,0,Medium Risk
+DELHIVERY,Compliant,0,2.0,Non Key Account,Re-activated,-1.0,-1.0,715.0,30.0,61950.0,1,0.495,0,1,Medium Risk
+DELHIVERY,Compliant,0,143.0,Key Account,Retained,-1.0,-1.0,1518.92,170.0,35400.0,1,0.21,0,1,Low Risk
+DELHIVERY,Non-Compliant,1,137.0,Key Account,Re-activated,4.0,4.0,3195.0,122.0,570609.0,1,0.357,0,1,Medium Risk
+DELHIVERY,Compliant,0,121.0,Key Account,Retained,0.0,0.0,1773.0,135.0,62902.0,0,0.202,0,0,Low Risk
+GATI,Non-Compliant,1,16.0,Non Key Account,Retained,2.0,2.0,1966.5,201.0,35500.0,0,0.606,1,0,High Risk
+GATI,Unknown,2,38.0,Non Key Account,Re-activated,0.0,0.0,2709.9,180.0,754233.0,1,0.793,1,1,High Risk
+Unknown,Non-Compliant,1,28.0,Key Account,Re-activated,14.0,14.0,842.0,70.0,80000.0,1,0.513,1,1,Medium Risk
+DELHIVERY,Compliant,0,8.0,Key Account,NCA,-2.0,-2.0,946.8,36.0,10502.0,0,0.305,0,0,Medium Risk
+DELHIVERY,Compliant,0,5.0,Key Account,NCA,-3.0,-3.0,896.8,80.0,11800.0,0,0.304,0,0,Medium Risk
+GATI,Non-Compliant,1,2.0,Non Key Account,NCA,3.0,3.0,4227.3,480.0,47291.0,0,0.703,1,0,High Risk
+SCORPION,Compliant,0,10.0,Non Key Account,Retained,-2.0,-2.0,967.0,99.0,40860.0,0,0.612,1,0,High Risk
+GATI,Non-Compliant,1,155.0,Key Account,Retained,2.0,2.0,498.0,50.0,10000.0,0,0.397,0,0,Medium Risk
+GATI,Non-Compliant,1,33.0,Key Account,Retained,4.0,4.0,4366.0,344.0,651360.0,0,0.274,0,0,Low Risk
+DELHIVERY,Non-Compliant,1,144.0,Key Account,Retained,3.0,3.0,979.0,48.0,18696.0,1,0.327,0,1,Medium Risk
+GATI,Non-Compliant,1,1.0,Non Key Account,NCA,1.0,1.0,11.0,100.0,500000.0,1,0.724,1,1,High Risk
+SCORPION,Compliant,0,9.0,Key Account,Re-activated,-1.0,-1.0,24921.0,3600.0,566990.0,0,0.083,0,0,Low Risk
+GATI,Non-Compliant,1,529.0,Key Account,Retained,5.0,5.0,816.0,50.0,45000.0,0,0.54,1,0,Medium Risk
+SCORPION,Non-Compliant,1,16.0,Non Key Account,Retained,5.0,5.0,2506.0,213.0,115994.0,0,0.698,1,0,High Risk
+SCORPION,Non-Compliant,1,2.0,Non Key Account,NCA,1.0,1.0,2358.1,72.0,231683.0,1,0.836,1,1,High Risk
+GATI,Compliant,0,138.0,Key Account,Retained,-2.0,-2.0,630.0,56.0,10000.0,0,0.273,0,0,Low Risk
+Unknown,Compliant,0,52.0,Non Key Account,Retained,0.0,0.0,962.0,70.0,34886.0,1,0.679,1,1,High Risk
+DELHIVERY,Non-Compliant,1,5.0,Key Account,Retained,1.0,1.0,1490.0,85.0,86000.0,0,0.281,0,0,Low Risk
+GATI,Non-Compliant,1,3.0,Non Key Account,Re-activated,4.0,4.0,4869.0,65.0,20000.0,1,0.695,1,1,High Risk
+DELHIVERY,Compliant,0,1.0,Non Key Account,NCA,-1.0,-1.0,1300.0,40.0,293324.0,1,0.56,1,1,Medium Risk
+GATI,Compliant,0,789.0,Key Account,Retained,-3.0,-3.0,826.0,69.0,52569.0,1,0.553,1,1,Medium Risk
+GATI,Compliant,0,6.0,Key Account,Retained,0.0,0.0,897.0,78.0,21280.0,1,0.216,0,1,Low Risk
+SCORPION,Compliant,0,50.0,Non Key Account,Retained,0.0,0.0,1124.0,96.0,42598.0,0,0.616,1,0,High Risk
+GATI,Compliant,0,305.0,Key Account,Retained,-1.0,-1.0,577.0,50.0,42848.0,0,0.329,0,0,Medium Risk
+V-XPRESS,Non-Compliant,1,58.0,Non Key Account,Retained,1.0,1.0,3107.0,300.0,186480.0,1,0.853,1,1,High Risk
+GATI,Compliant,0,110.0,Non Key Account,Retained,-3.0,-3.0,1567.0,126.0,116820.0,1,0.531,1,1,Medium Risk
+GATI,Non-Compliant,1,1.0,Non Key Account,NCA,8.0,8.0,3447.0,470.0,47078.0,1,0.667,1,1,High Risk
+GATI,Non-Compliant,0,24.0,Key Account,Unknown,0.0,1.0,617.0,30.0,7500.0,0,0.135,0,0,Low Risk
+Unknown,Non-Compliant,1,1.0,Non Key Account,NCA,5.0,5.0,834.0,155.0,361849.0,1,0.837,1,1,High Risk
+GATI,Compliant,0,2.0,Non Key Account,Retained,0.0,0.0,1359.0,117.0,24780.0,0,0.465,0,0,Medium Risk
+GATI,Compliant,0,93.0,Key Account,Retained,-2.0,-2.0,2385.0,315.0,743400.0,0,0.201,0,0,Low Risk
+DELHIVERY,Compliant,0,56.0,Key Account,Retained,0.0,0.0,736.25,10.0,5000.0,0,0.196,0,0,Low Risk
+V-XPRESS,Non-Compliant,1,17.0,Non Key Account,Retained,9.0,9.0,3299.0,70.0,75638.0,0,0.835,1,0,High Risk
+V-XPRESS,Non-Compliant,1,68.0,Non Key Account,Retained,3.0,3.0,3266.0,300.0,186480.0,1,0.847,1,1,High Risk
+Unknown,Compliant,0,8.0,Non Key Account,Retained,0.0,0.0,738.0,75.0,8636.0,1,0.661,1,1,High Risk
+SCORPION,Non-Compliant,1,1.0,Non Key Account,NCA,1.0,1.0,830.0,100.0,18383.0,1,0.836,1,1,High Risk
+GATI,Compliant,0,410.0,Key Account,Retained,-2.0,-2.0,2605.0,250.0,48000.0,0,0.358,0,0,Medium Risk
+DELHIVERY,Compliant,0,94.0,Non Key Account,Retained,0.0,0.0,2956.0,100.0,348430.0,1,0.434,0,1,Medium Risk
+SCORPION,Non-Compliant,1,68.0,Key Account,Retained,7.0,7.0,5251.5,512.0,38362.0,0,0.396,0,0,Medium Risk
+GATI,Compliant,0,549.0,Key Account,Retained,-1.0,-1.0,1131.0,100.0,5000.0,0,0.429,0,0,Medium Risk
+DELHIVERY,Non-Compliant,1,219.0,Key Account,Retained,2.0,2.0,3672.0,220.0,79591.0,0,0.349,0,0,Medium Risk
+DELHIVERY,Compliant,0,29.0,Key Account,NCA,0.0,0.0,820.0,70.0,16990.0,0,0.294,0,0,Low Risk
+GATI,Compliant,0,4.0,Non Key Account,NCA,-1.0,-1.0,749.0,41.0,19470.0,0,0.637,1,0,High Risk
+GATI,Non-Compliant,1,20.0,Key Account,Re-activated,3.0,3.0,1418.0,20.0,15859.0,0,0.416,0,0,Medium Risk
+SCORPION,Non-Compliant,1,8.0,Key Account,Re-activated,2.0,2.0,5473.9,813.0,557550.0,0,0.402,0,0,Medium Risk
+DELHIVERY,Compliant,0,138.0,Key Account,Retained,0.0,0.0,1603.8,185.0,73185.0,0,0.201,0,0,Low Risk
+GATI,Compliant,0,120.0,Key Account,Retained,-1.0,-1.0,543.0,1.0,1000.0,1,0.268,0,1,Low Risk
+GATI,Non-Compliant,1,5.0,Key Account,Retained,3.0,3.0,519.0,33.0,23603.0,0,0.329,0,0,Medium Risk
+GATI,Non-Compliant,1,1.0,Non Key Account,NCA,1.0,1.0,9838.0,600.0,100000.0,1,0.722,1,1,High Risk
+GATI,Compliant,0,620.0,Key Account,Retained,-3.0,-3.0,3694.0,265.0,35000.0,0,0.461,0,0,Medium Risk
+GATI,Compliant,0,5.0,Non Key Account,Retained,-1.0,-1.0,1518.0,132.0,133045.0,1,0.466,0,1,Medium Risk
+GATI,Non-Compliant,1,96.0,Key Account,Retained,4.0,4.0,1282.0,120.0,40000.0,0,0.349,0,0,Medium Risk
+SCORPION,Non-Compliant,1,12.0,Non Key Account,Retained,2.0,2.0,1485.0,50.0,72865.0,0,0.736,1,0,High Risk
+DELHIVERY,Compliant,0,8.0,Key Account,Retained,-2.0,-2.0,4111.2,113.0,1926280.0,0,0.128,0,0,Low Risk
+V-XPRESS,Compliant,0,6.0,Non Key Account,Retained,-2.0,-2.0,667.0,10.0,3360.0,1,0.784,1,1,High Risk
+GATI,Compliant,0,8.0,Non Key Account,Unknown,0.0,0.0,902.0,64.0,20476.0,0,0.398,0,0,Medium Risk
+DELHIVERY,Compliant,0,1.0,Non Key Account,Unknown,0.0,0.0,1624.0,120.0,115000.0,1,0.324,0,1,Medium Risk
+GATI,Compliant,0,27.0,Key Account,NCA,-1.0,-1.0,3621.0,36.0,10000.0,0,0.378,0,0,Medium Risk
+GATI,Compliant,0,295.0,Key Account,Retained,0.0,0.0,3113.0,230.0,45000.0,0,0.304,0,0,Medium Risk
+DELHIVERY,Compliant,0,2.0,Non Key Account,Retained,0.0,0.0,927.9,71.0,25000.0,0,0.407,0,0,Medium Risk
+GATI,Compliant,0,10.0,Non Key Account,Retained,0.0,0.0,656.0,6.0,1512.0,0,0.485,0,0,Medium Risk
+GATI,Compliant,0,343.0,Key Account,Retained,-2.0,-2.0,591.0,60.0,10000.0,0,0.352,0,0,Medium Risk
+SCORPION,Compliant,0,1.0,Non Key Account,NCA,-2.0,-2.0,571.0,27.0,47613.0,1,0.751,1,1,High Risk
+DELHIVERY,Compliant,0,48.0,Non Key Account,Retained,-2.0,-2.0,1411.0,20.0,30000.0,0,0.453,0,0,Medium Risk
+GATI,Compliant,0,493.0,Key Account,Retained,-4.0,-4.0,977.0,85.0,207229.0,0,0.416,0,0,Medium Risk
+DELHIVERY,Compliant,0,15.0,Non Key Account,Retained,-1.0,-1.0,682.0,20.0,35000.0,0,0.426,0,0,Medium Risk
+GATI,Compliant,0,8.0,Non Key Account,Retained,-1.0,-1.0,1091.0,100.0,231728.0,0,0.464,0,0,Medium Risk
+GATI,Compliant,0,787.0,Key Account,Retained,-4.0,-4.0,1024.0,89.0,58016.0,1,0.557,1,1,Medium Risk
+GATI,Non-Compliant,1,38.0,Non Key Account,Retained,2.0,2.0,1694.7,101.0,31500.0,0,0.63,1,0,High Risk
+DELHIVERY,Non-Compliant,1,2.0,Non Key Account,Retained,5.0,5.0,1361.0,40.0,16559.0,0,0.538,1,0,Medium Risk
+Unknown,Non-Compliant,1,82.0,Key Account,Retained,3.0,3.0,757.0,20.0,15859.0,1,0.555,1,1,Medium Risk
+GATI,Non-Compliant,1,20.0,Key Account,Retained,3.0,3.0,3190.5,220.0,126704.0,0,0.315,0,0,Medium Risk
+V-XPRESS,Compliant,0,4.0,Non Key Account,Retained,-2.0,-2.0,2222.0,275.0,183300.0,1,0.75,1,1,High Risk
+GATI,Non-Compliant,1,2.0,Non Key Account,NCA,7.0,7.0,676.0,60.0,13541.0,1,0.721,1,1,High Risk
+SCORPION,Non-Compliant,1,46.0,Non Key Account,Retained,1.0,1.0,1481.0,137.0,78090.0,0,0.742,1,0,High Risk
+DELHIVERY,Non-Compliant,1,22.0,Key Account,Retained,2.0,2.0,1207.0,130.0,217600.0,1,0.267,0,1,Low Risk
+GATI,Unknown,2,837.0,Key Account,Retained,0.0,0.0,516.0,48.0,45000.0,1,0.82,1,1,High Risk
+GATI,Non-Compliant,1,32.0,Non Key Account,Retained,5.0,5.0,1511.0,125.0,20500.0,0,0.601,1,0,High Risk
+SCORPION,Compliant,0,17.0,Non Key Account,Retained,-1.0,-1.0,1114.0,50.0,49000.0,0,0.616,1,0,High Risk
+SCORPION,Non-Compliant,1,32.0,Key Account,Retained,2.0,2.0,916.0,112.0,22332.0,0,0.461,0,0,Medium Risk
+DELHIVERY,Compliant,0,75.0,Key Account,Retained,-5.0,-5.0,7368.0,450.0,132708.0,1,0.197,0,1,Low Risk
+GATI,Non-Compliant,1,126.0,Key Account,Retained,3.0,3.0,543.0,1.0,1000.0,1,0.385,0,1,Medium Risk
+DELHIVERY,Compliant,0,1.0,Non Key Account,NCA,0.0,0.0,202.0,33.0,33000.0,1,0.564,1,1,Medium Risk
+GATI,Non-Compliant,1,444.0,Key Account,Retained,4.0,4.0,1486.0,100.0,15000.0,0,0.507,1,0,Medium Risk
+DELHIVERY,Compliant,0,27.0,Non Key Account,Retained,-4.0,-4.0,3439.0,45.0,16999.0,1,0.467,0,1,Medium Risk
+V-XPRESS,Non-Compliant,1,2.0,Non Key Account,Re-activated,1.0,1.0,971.0,23.0,20768.0,1,0.896,1,1,High Risk
+SCORPION,Compliant,0,8.0,Non Key Account,Retained,-2.0,-2.0,1199.0,95.0,34176.0,0,0.614,1,0,High Risk
+Unknown,Compliant,0,33.0,Non Key Account,Retained,0.0,0.0,2080.0,100.0,400000.0,1,0.652,1,1,High Risk
+SCORPION,Compliant,1,2.0,Non Key Account,Unknown,1.0,0.0,864.5,70.0,2071.0,0,0.736,1,0,High Risk
+DELHIVERY,Non-Compliant,1,8.0,Non Key Account,Retained,4.0,4.0,2248.0,27.0,7400.0,1,0.556,1,1,Medium Risk
+SCORPION,Non-Compliant,1,59.0,Key Account,Re-activated,1.0,1.0,4853.0,500.0,102330.0,0,0.51,1,0,Medium Risk
+DELHIVERY,Non-Compliant,1,126.0,Key Account,Retained,3.0,3.0,1031.0,75.0,37571.0,0,0.315,0,0,Medium Risk
+DELHIVERY,Non-Compliant,1,7.0,Non Key Account,Re-activated,1.0,1.0,963.0,60.0,324412.0,1,0.622,1,1,High Risk
+DELHIVERY,Compliant,0,4.0,Key Account,NCA,0.0,0.0,2638.0,90.0,108980.0,0,0.286,0,0,Low Risk
+GATI,Compliant,0,1.0,Non Key Account,Unknown,0.0,0.0,6852.35,25.0,314540.0,1,0.416,0,1,Medium Risk
+DELHIVERY,Non-Compliant,1,27.0,Key Account,Retained,2.0,2.0,1876.5,220.0,79591.0,0,0.267,0,0,Low Risk
+V-XPRESS,Compliant,0,5.0,Key Account,Re-activated,-1.0,-1.0,648.0,14.0,343716.0,0,0.577,1,0,Medium Risk
+SCORPION,Non-Compliant,1,13.0,Non Key Account,Retained,1.0,1.0,1415.0,110.0,22500.0,0,0.736,1,0,High Risk
+DELHIVERY,Compliant,0,300.0,Key Account,Retained,-2.0,-2.0,1980.0,200.0,56640.0,0,0.264,0,0,Low Risk
+DELHIVERY,Compliant,0,1.0,Non Key Account,NCA,0.0,0.0,1505.0,190.0,83400.0,0,0.542,1,0,Medium Risk
+SCORPION,Non-Compliant,1,1.0,Non Key Account,NCA,10.0,10.0,688.0,80.0,25000.0,1,0.796,1,1,High Risk
+DELHIVERY,Compliant,0,16.0,Non Key Account,Retained,0.0,0.0,729.0,20.0,12900.0,1,0.421,0,1,Medium Risk
+GATI,Compliant,0,105.0,Key Account,Retained,-2.0,-2.0,5037.0,350.0,45000.0,0,0.241,0,0,Low Risk
+GATI,Compliant,0,5.0,Non Key Account,NCA,0.0,0.0,840.0,56.0,21382.0,1,0.628,1,1,High Risk
+DELHIVERY,Non-Compliant,1,41.0,Non Key Account,Retained,2.0,2.0,644.0,15.0,21240.0,0,0.578,1,0,Medium Risk
+DELHIVERY,Non-Compliant,1,2.0,Key Account,NCA,3.0,3.0,5240.0,140.0,216000.0,0,0.41,0,0,Medium Risk
+DELHIVERY,Compliant,0,4.0,Non Key Account,NCA,-3.0,-3.0,1031.0,25.0,33040.0,1,0.594,1,1,Medium Risk
+SCORPION,Compliant,0,3.0,Key Account,NCA,0.0,0.0,1707.0,58.0,24426.0,1,0.471,0,1,Medium Risk
+DELHIVERY,Compliant,0,13.0,Key Account,Re-activated,-10.0,-10.0,3313.0,105.0,130590.0,1,0.288,0,1,Low Risk
+DELHIVERY,Compliant,0,19.0,Non Key Account,Retained,0.0,0.0,1431.0,20.0,7080.0,1,0.427,0,1,Medium Risk
+GATI,Non-Compliant,1,10.0,Non Key Account,Retained,1.0,1.0,3110.0,155.0,295000.0,0,0.608,1,0,High Risk
+GATI,Compliant,0,35.0,Key Account,Retained,-1.0,-1.0,1822.0,170.0,15000.0,0,0.223,0,0,Low Risk
+Unknown,Unknown,2,4.0,Non Key Account,Retained,0.0,0.0,7885.0,1000.0,233632.0,1,0.808,1,1,High Risk
+GATI,Compliant,0,2.0,Non Key Account,Re-activated,0.0,0.0,1438.0,70.0,2381220.0,1,0.404,0,1,Medium Risk
+GATI,Non-Compliant,1,120.0,Key Account,Retained,1.0,1.0,1918.0,180.0,117504.0,1,0.369,0,1,Medium Risk
+DELHIVERY,Compliant,0,3.0,Key Account,Re-activated,0.0,0.0,2102.0,142.0,1495.0,1,0.222,0,1,Low Risk
+DELHIVERY,Compliant,0,17.0,Key Account,NCA,-1.0,-1.0,1029.0,33.0,25990.0,0,0.302,0,0,Medium Risk
+V-XPRESS,Non-Compliant,1,367.0,Key Account,Retained,1.0,1.0,3540.16,255.0,85576.0,1,0.769,1,1,High Risk
+GATI,Non-Compliant,1,211.0,Key Account,Retained,5.0,5.0,8536.0,650.0,30000.0,0,0.345,0,0,Medium Risk
+GATI,Non-Compliant,1,3.0,Key Account,Retained,34.0,34.0,4278.0,150.0,392359.0,0,0.147,0,0,Low Risk
+GATI,Compliant,0,37.0,Non Key Account,Re-activated,0.0,0.0,1762.0,75.0,1220096.0,1,0.493,0,1,Medium Risk
+GATI,Compliant,0,8.0,Non Key Account,Re-activated,-1.0,-1.0,892.0,65.0,56357.0,0,0.558,1,0,Medium Risk
+DELHIVERY,Non-Compliant,1,171.0,Key Account,Retained,1.0,1.0,2542.5,155.0,69376.0,0,0.341,0,0,Medium Risk
+V-XPRESS,Non-Compliant,1,1.0,Non Key Account,NCA,1.0,1.0,566.0,50.0,2000.0,1,0.92,1,1,High Risk
+GATI,Compliant,0,436.0,Key Account,Retained,0.0,0.0,1402.0,170.0,15000.0,0,0.363,0,0,Medium Risk
+GATI,Compliant,0,11.0,Key Account,Retained,-4.0,-4.0,656.0,23.0,6261.0,0,0.246,0,0,Low Risk
+SCORPION,Non-Compliant,1,1.0,Non Key Account,NCA,1.0,1.0,39662.0,4380.0,141800.0,1,0.396,0,1,Medium Risk
+GATI,Compliant,0,3.0,Non Key Account,Re-activated,-2.0,-2.0,8899.0,760.0,127641.0,1,0.487,0,1,Medium Risk
+DELHIVERY,Unknown,2,56.0,Non Key Account,Retained,0.0,0.0,3392.0,135.0,99000.0,1,0.734,1,1,High Risk
+DELHIVERY,Non-Compliant,1,9.0,Non Key Account,Retained,2.0,2.0,2674.0,230.0,100000.0,0,0.534,1,0,Medium Risk
+GATI,Compliant,0,109.0,Non Key Account,Retained,0.0,0.0,862.0,65.0,146320.0,0,0.512,1,0,Medium Risk
+SCORPION,Non-Compliant,1,11.0,Non Key Account,Retained,6.0,6.0,571.0,15.0,14042.0,0,0.714,1,0,High Risk
+GATI,Non-Compliant,1,28.0,Key Account,NCA,18.0,18.0,498.0,50.0,16990.0,0,0.374,0,0,Medium Risk
+SCORPION,Unknown,2,7.0,Non Key Account,Retained,0.0,0.0,1261.8,150.0,31528.0,1,0.841,1,1,High Risk
+GATI,Compliant,0,350.0,Key Account,Retained,0.0,0.0,1131.0,100.0,15000.0,0,0.337,0,0,Medium Risk
+GATI,Compliant,0,191.0,Non Key Account,Retained,-3.0,-3.0,2385.0,102.0,188000.0,1,0.571,1,1,Medium Risk
+GATI,Non-Compliant,1,4.0,Non Key Account,Unknown,3.0,2.0,1071.0,110.0,26900.0,0,0.534,1,0,Medium Risk
+DELHIVERY,Compliant,0,15.0,Key Account,NCA,0.0,0.0,880.0,73.0,45290.0,0,0.287,0,0,Low Risk
+DELHIVERY,Non-Compliant,1,53.0,Key Account,Retained,10.0,10.0,3481.0,40.0,40592.0,0,0.261,0,0,Low Risk
+Unknown,Compliant,0,161.0,Non Key Account,Retained,-1.0,-1.0,647.0,55.0,118000.0,1,0.723,1,1,High Risk
+Unknown,Compliant,0,64.0,Non Key Account,Retained,-2.0,-2.0,3350.0,110.0,316726.0,1,0.688,1,1,High Risk
+SCORPION,Compliant,0,27.0,Key Account,Re-activated,-10.0,-10.0,1748.0,12.0,40546.0,0,0.487,0,0,Medium Risk
+DELHIVERY,Non-Compliant,1,32.0,Key Account,Retained,6.0,6.0,2183.0,150.0,259600.0,0,0.247,0,0,Low Risk
+GATI,Compliant,0,5.0,Non Key Account,Retained,0.0,0.0,736.0,13.0,12500.0,0,0.482,0,0,Medium Risk
+GATI,Compliant,0,801.0,Key Account,Retained,0.0,0.0,583.0,59.0,127835.0,1,0.531,1,1,Medium Risk
+SCORPION,Compliant,0,60.0,Key Account,Retained,0.0,0.0,6602.0,690.0,112369.0,0,0.273,0,0,Low Risk
+GATI,Non-Compliant,1,24.0,Key Account,Retained,4.0,4.0,6369.0,450.0,842631.0,0,0.256,0,0,Low Risk
+DELHIVERY,Compliant,0,218.0,Key Account,Retained,0.0,0.0,798.0,50.0,48000.0,0,0.239,0,0,Low Risk
+DELHIVERY,Compliant,0,10.0,Non Key Account,Retained,-1.0,-1.0,2230.0,100.0,188800.0,0,0.41,0,0,Medium Risk
+GATI,Compliant,0,11.0,Key Account,Retained,-2.0,-2.0,596.0,5.0,2790.0,0,0.237,0,0,Low Risk
+DELHIVERY,Compliant,0,86.0,Non Key Account,Retained,0.0,0.0,680.0,48.0,25000.0,1,0.446,0,1,Medium Risk
+V-XPRESS,Non-Compliant,1,34.0,Key Account,Retained,11.0,11.0,789.36,19.0,7102.0,1,0.602,1,1,High Risk
+GATI,Compliant,0,40.0,Key Account,Retained,-3.0,-3.0,685.0,50.0,30000.0,0,0.245,0,0,Low Risk
+DELHIVERY,Compliant,0,7.0,Key Account,Retained,-3.0,-3.0,827.0,38.0,7230.0,0,0.194,0,0,Low Risk
+GATI,Non-Compliant,1,3.0,Non Key Account,Re-activated,3.0,3.0,1452.0,50.0,25754.0,1,0.686,1,1,High Risk
+DELHIVERY,Compliant,0,2.0,Non Key Account,NCA,-2.0,-2.0,1240.0,70.0,48023.0,0,0.578,1,0,Medium Risk
+DELHIVERY,Compliant,0,3.0,Non Key Account,Retained,-2.0,-2.0,641.0,38.0,15000.0,0,0.427,0,0,Medium Risk
+DELHIVERY,Non-Compliant,1,8.0,Key Account,NCA,4.0,4.0,857.0,72.0,48980.0,0,0.403,0,0,Medium Risk
+GATI,Non-Compliant,1,2.0,Non Key Account,Re-activated,2.0,2.0,429.0,22.0,25500.0,1,0.691,1,1,High Risk
+DELHIVERY,Compliant,0,8.0,Non Key Account,Re-activated,-2.0,-2.0,808.0,30.0,23813.0,0,0.509,1,0,Medium Risk
+Unknown,Non-Compliant,1,124.0,Key Account,Retained,2.0,2.0,707.48,30.0,119059.0,1,0.573,1,1,Medium Risk
+DELHIVERY,Non-Compliant,1,1.0,Non Key Account,NCA,4.0,4.0,549.1,50.0,24240.0,1,0.686,1,1,High Risk
+DELHIVERY,Compliant,0,7.0,Non Key Account,Retained,-1.0,-1.0,4636.0,280.0,590000.0,0,0.369,0,0,Medium Risk
+SCORPION,Compliant,0,21.0,Non Key Account,Retained,-2.0,-2.0,4063.0,260.0,35000.0,0,0.608,1,0,High Risk
+GATI,Compliant,0,473.0,Key Account,Retained,0.0,0.0,1254.0,150.0,172460.0,0,0.371,0,0,Medium Risk
+SCORPION,Non-Compliant,1,6.0,Non Key Account,Retained,5.0,5.0,990.0,70.0,33998.0,0,0.712,1,0,High Risk
+GATI,Non-Compliant,1,5.0,Non Key Account,Retained,6.0,6.0,4536.0,255.0,49000.0,1,0.576,1,1,Medium Risk
+DELHIVERY,Compliant,0,5.0,Key Account,Retained,-8.0,-8.0,2613.0,110.0,29810.0,1,0.216,0,1,Low Risk
+GATI,Non-Compliant,1,7.0,Key Account,NCA,1.0,1.0,1469.0,36.0,10000.0,0,0.501,1,0,Medium Risk
+SCORPION,Compliant,0,17.0,Non Key Account,Retained,0.0,0.0,1006.05,120.0,158380.0,0,0.59,1,0,Medium Risk
+GATI,Non-Compliant,1,15.0,Key Account,Retained,1.0,1.0,910.0,30.0,45000.0,1,0.348,0,1,Medium Risk
+DELHIVERY,Non-Compliant,1,8.0,Non Key Account,Retained,2.0,2.0,1425.0,110.0,25553.0,0,0.551,1,0,Medium Risk
+GATI,Compliant,0,41.0,Key Account,Retained,0.0,0.0,3633.0,182.0,15000.0,0,0.226,0,0,Low Risk
+GATI,Compliant,0,3.0,Non Key Account,Unknown,0.0,0.0,537.0,16.0,594.0,1,0.403,0,1,Medium Risk
+SCORPION,Non-Compliant,1,28.0,Non Key Account,Retained,4.0,4.0,853.0,40.0,32450.0,0,0.73,1,0,High Risk
+GATI,Non-Compliant,1,35.0,Non Key Account,Retained,1.0,1.0,925.0,110.0,89450.0,0,0.627,1,0,High Risk
+V-XPRESS,Unknown,2,36.0,Non Key Account,Retained,0.0,0.0,643.0,28.0,36962.0,1,0.928,1,1,High Risk
+Unknown,Unknown,2,60.0,Non Key Account,Retained,0.0,0.0,783.0,55.0,76071.0,1,0.887,1,1,High Risk
+DELHIVERY,Compliant,0,1.0,Non Key Account,NCA,0.0,0.0,630.0,15.0,16800.0,0,0.57,1,0,Medium Risk
+DELHIVERY,Non-Compliant,1,118.0,Key Account,Retained,16.0,16.0,2709.0,155.0,69376.0,0,0.229,0,0,Low Risk
+V-XPRESS,Non-Compliant,1,4.0,Key Account,NCA,6.0,6.0,11940.3,400.0,196350.0,0,0.749,1,0,High Risk
+DELHIVERY,Compliant,0,135.0,Key Account,Re-activated,-3.0,-3.0,1836.0,120.0,10002.0,1,0.286,0,1,Low Risk
+GATI,Compliant,0,209.0,Key Account,Retained,-1.0,-1.0,1139.0,140.0,379960.0,0,0.265,0,0,Low Risk
+V-XPRESS,Non-Compliant,1,95.0,Non Key Account,Retained,1.0,1.0,836.0,68.0,166380.0,1,0.873,1,1,High Risk
+GATI,Compliant,0,813.0,Key Account,Retained,-2.0,-2.0,1908.0,179.0,755790.0,1,0.499,0,1,Medium Risk
+Unknown,Non-Compliant,1,1.0,Non Key Account,NCA,18.0,18.0,4667.0,350.0,300089.0,1,0.771,1,1,High Risk
+DELHIVERY,Non-Compliant,1,3.0,Non Key Account,Retained,1.0,1.0,4536.0,267.0,50000.0,1,0.547,1,1,Medium Risk
+GATI,Compliant,0,8.0,Key Account,Retained,0.0,0.0,4576.0,131.0,160500.0,0,0.219,0,0,Low Risk
+GATI,Compliant,0,464.0,Key Account,Retained,-2.0,-2.0,640.0,50.0,74744.0,0,0.401,0,0,Medium Risk
+DELHIVERY,Compliant,0,54.0,Key Account,Retained,-6.0,-6.0,3148.0,110.0,48026.0,0,0.222,0,0,Low Risk
+GATI,Non-Compliant,1,45.0,Non Key Account,Retained,1.0,1.0,1883.0,101.0,25000.0,0,0.641,1,0,High Risk
+GATI,Non-Compliant,1,823.0,Key Account,Retained,4.0,4.0,729.0,59.0,30000.0,1,0.672,1,1,High Risk
+V-XPRESS,Non-Compliant,1,5.0,Non Key Account,NCA,4.0,4.0,4602.0,311.0,264311.0,1,0.9,1,1,High Risk
+GATI,Non-Compliant,1,2.0,Non Key Account,NCA,2.0,2.0,676.0,40.0,16520.0,0,0.753,1,0,High Risk
+V-XPRESS,Non-Compliant,1,53.0,Key Account,Re-activated,16.0,16.0,2668.0,55.0,24426.0,0,0.651,1,0,High Risk
+GATI,Compliant,0,127.0,Key Account,Retained,-6.0,-6.0,853.0,100.0,20000.0,0,0.289,0,0,Low Risk
+V-XPRESS,Non-Compliant,1,6.0,Non Key Account,Retained,2.0,2.0,977.0,35.0,19538.0,0,0.859,1,0,High Risk
+DELHIVERY,Non-Compliant,1,9.0,Non Key Account,Retained,6.0,6.0,771.0,40.0,15999.0,0,0.53,1,0,Medium Risk
+GATI,Non-Compliant,1,6.0,Non Key Account,Re-activated,3.0,3.0,680.0,40.0,7340.0,0,0.686,1,0,High Risk
+GATI,Non-Compliant,1,227.0,Key Account,Retained,4.0,4.0,2751.0,275.0,45000.0,0,0.387,0,0,Medium Risk
+Unknown,Compliant,0,52.0,Non Key Account,Retained,-3.0,-3.0,1007.0,76.0,163846.0,1,0.692,1,1,High Risk
+GATI,Non-Compliant,1,4.0,Non Key Account,Re-activated,1.0,1.0,7856.1,745.0,110218.0,1,0.622,1,1,High Risk
+SCORPION,Non-Compliant,1,2.0,Non Key Account,Re-activated,2.0,2.0,2506.0,288.0,112525.0,1,0.763,1,1,High Risk
+DELHIVERY,Compliant,0,122.0,Key Account,Retained,-2.0,-2.0,857.0,70.0,4720.0,0,0.219,0,0,Low Risk
+SCORPION,Compliant,0,3.0,Non Key Account,Re-activated,0.0,0.0,898.0,60.0,800000.0,1,0.629,1,1,High Risk
+DELHIVERY,Compliant,0,20.0,Non Key Account,Retained,0.0,0.0,849.0,50.0,64449.0,0,0.415,0,0,Medium Risk
+SCORPION,Non-Compliant,1,1.0,Non Key Account,NCA,1.0,1.0,70.0,105.0,40215.0,1,0.832,1,1,High Risk
+DELHIVERY,Non-Compliant,1,5.0,Key Account,Re-activated,5.0,5.0,2496.0,150.0,16937.0,1,0.32,0,1,Medium Risk
+Unknown,Non-Compliant,1,6.0,Non Key Account,Re-activated,2.0,2.0,674.0,35.0,15000.0,1,0.831,1,1,High Risk
+DELHIVERY,Non-Compliant,1,112.0,Key Account,Retained,4.0,4.0,2623.0,180.0,76301.0,0,0.294,0,0,Low Risk
+DELHIVERY,Compliant,0,9.0,Non Key Account,Retained,-3.0,-3.0,2594.0,260.0,93636.0,1,0.406,0,1,Medium Risk
+V-XPRESS,Compliant,0,9.0,Non Key Account,Retained,-1.0,-1.0,571.5,40.0,14066.0,1,0.776,1,1,High Risk
+DELHIVERY,Compliant,0,6.0,Non Key Account,Retained,0.0,0.0,1640.0,45.0,25202.0,1,0.417,0,1,Medium Risk
+GATI,Non-Compliant,1,335.0,Key Account,Retained,3.0,3.0,2230.0,220.0,45000.0,0,0.448,0,0,Medium Risk
+SCORPION,Non-Compliant,1,47.0,Key Account,Re-activated,15.0,15.0,4088.0,280.0,1.0,0,0.437,0,0,Medium Risk
+SCORPION,Compliant,0,42.0,Non Key Account,Retained,-4.0,-4.0,1172.0,148.0,837800.0,0,0.585,1,0,Medium Risk
+DELHIVERY,Compliant,0,19.0,Non Key Account,Retained,-3.0,-3.0,1828.0,50.0,32000.0,0,0.445,0,0,Medium Risk
+SCORPION,Non-Compliant,1,3.0,Non Key Account,Retained,2.0,2.0,1569.4,111.0,18000.0,0,0.727,1,0,High Risk
+DELHIVERY,Compliant,0,5.0,Non Key Account,Re-activated,-1.0,-1.0,609.0,40.0,19116.0,1,0.497,0,1,Medium Risk
+GATI,Non-Compliant,1,23.0,Non Key Account,Retained,1.0,1.0,537.0,17.0,27500.0,0,0.638,1,0,High Risk
+GATI,Compliant,0,740.0,Key Account,Retained,-2.0,-2.0,640.0,49.0,133340.0,1,0.52,1,1,Medium Risk
+DELHIVERY,Non-Compliant,1,356.0,Key Account,Retained,1.0,1.0,1604.48,155.0,69376.0,1,0.414,0,1,Medium Risk
+GATI,Non-Compliant,1,200.0,Key Account,Retained,2.0,2.0,4618.8,220.0,79591.0,0,0.407,0,0,Medium Risk
+DELHIVERY,Non-Compliant,1,51.0,Key Account,Retained,2.0,2.0,635.1,60.0,2832.0,0,0.295,0,0,Low Risk
+DELHIVERY,Non-Compliant,1,79.0,Key Account,Retained,2.0,2.0,911.6,60.0,17053.0,0,0.307,0,0,Medium Risk
+V-XPRESS,Non-Compliant,1,1.0,Non Key Account,NCA,4.0,4.0,1624.0,180.0,79886.0,1,0.906,1,1,High Risk
+GATI,Non-Compliant,1,105.0,Non Key Account,Retained,2.0,2.0,1095.0,105.0,210000.0,0,0.643,1,0,High Risk
+Unknown,Unknown,2,15.0,Non Key Account,Retained,0.0,0.0,1629.0,75.0,68440.0,1,0.879,1,1,High Risk
+GATI,Non-Compliant,1,1.0,Key Account,NCA,1.0,1.0,3342.0,204.0,98160.0,0,0.475,0,0,Medium Risk
+DELHIVERY,Compliant,0,19.0,Key Account,Retained,0.0,0.0,666.0,18.0,5000.0,0,0.184,0,0,Low Risk
+GATI,Compliant,0,416.0,Key Account,Retained,0.0,0.0,659.0,50.0,7000.0,0,0.37,0,0,Medium Risk
+V-XPRESS,Compliant,0,2.0,Non Key Account,Retained,0.0,0.0,2557.0,250.0,72275.0,1,0.748,1,1,High Risk
+GATI,Compliant,0,28.0,Non Key Account,Retained,0.0,0.0,1286.0,101.0,31500.0,0,0.479,0,0,Medium Risk
+DELHIVERY,Compliant,0,7.0,Non Key Account,Retained,-1.0,-1.0,1180.0,140.0,46564.0,1,0.405,0,1,Medium Risk
+DELHIVERY,Compliant,0,21.0,Non Key Account,Retained,-1.0,-1.0,772.0,10.0,12450.0,0,0.433,0,0,Medium Risk
+V-XPRESS,Non-Compliant,1,66.0,Key Account,Retained,6.0,6.0,1390.12,38.0,14204.0,1,0.651,1,1,High Risk
+SCORPION,Compliant,0,56.0,Key Account,Re-activated,-1.0,-1.0,4991.0,476.0,514312.0,0,0.346,0,0,Medium Risk
+GATI,Compliant,0,24.0,Key Account,Retained,-6.0,-6.0,803.7,30.0,16892.0,0,0.261,0,0,Low Risk
+DELHIVERY,Non-Compliant,1,5.0,Non Key Account,Re-activated,8.0,8.0,2006.0,35.0,162246.0,1,0.589,1,1,Medium Risk
+DELHIVERY,Compliant,0,1.0,Non Key Account,NCA,0.0,0.0,545.0,20.0,9895.0,0,0.569,1,0,Medium Risk
+SCORPION,Non-Compliant,1,5.0,Non Key Account,Unknown,1.0,1.0,796.0,15.0,9440.0,0,0.679,1,0,High Risk
+V-XPRESS,Unknown,2,65.0,Non Key Account,Retained,0.0,0.0,909.0,50.0,26880.0,1,0.931,1,1,High Risk
+SCORPION,Non-Compliant,1,19.0,Non Key Account,Retained,6.0,6.0,3812.0,220.0,134560.0,0,0.697,1,0,High Risk
+DELHIVERY,Non-Compliant,1,101.0,Non Key Account,Retained,1.0,1.0,666.0,50.0,3068.0,1,0.607,1,1,High Risk
+SCORPION,Non-Compliant,1,22.0,Non Key Account,Re-activated,1.0,1.0,2921.0,400.0,18851.0,0,0.768,1,0,High Risk
+V-XPRESS,Non-Compliant,1,128.0,Key Account,Retained,6.0,6.0,629.0,1.0,1000.0,1,0.678,1,1,High Risk
+GATI,Compliant,0,246.0,Key Account,Retained,-2.0,-2.0,498.0,30.0,3000.0,0,0.317,0,0,Medium Risk
+GATI,Compliant,0,40.0,Non Key Account,Retained,-2.0,-2.0,1933.0,104.0,35000.0,0,0.503,1,0,Medium Risk
+DELHIVERY,Non-Compliant,1,1.0,Key Account,NCA,6.0,6.0,3845.7,279.0,200000.0,0,0.359,0,0,Medium Risk
+SCORPION,Compliant,0,6.0,Non Key Account,Retained,-4.0,-4.0,1389.0,5.0,49960.0,1,0.641,1,1,High Risk
+SCORPION,Non-Compliant,1,16.0,Non Key Account,Retained,9.0,9.0,571.0,45.0,1180.0,0,0.693,1,0,High Risk
+GATI,Compliant,0,14.0,Non Key Account,Retained,-4.0,-4.0,1052.0,80.0,157973.0,0,0.498,0,0,Medium Risk
+DELHIVERY,Compliant,0,9.0,Key Account,Retained,-1.0,-1.0,1466.0,91.0,10000.0,0,0.182,0,0,Low Risk
+SCORPION,Non-Compliant,1,38.0,Non Key Account,Retained,1.0,1.0,3174.0,100.0,78000.0,1,0.751,1,1,High Risk
+DELHIVERY,Compliant,0,63.0,Key Account,Retained,-4.0,-4.0,6410.0,500.0,199656.0,0,0.178,0,0,Low Risk
+DELHIVERY,Compliant,0,11.0,Key Account,Retained,0.0,0.0,5184.15,460.0,174782.0,0,0.149,0,0,Low Risk
+SCORPION,Non-Compliant,1,32.0,Key Account,Retained,5.0,5.0,875.84,48.0,21546.0,1,0.448,0,1,Medium Risk
+DELHIVERY,Non-Compliant,1,25.0,Key Account,Retained,10.0,10.0,863.0,40.0,49000.0,0,0.24,0,0,Low Risk
+DELHIVERY,Compliant,0,241.0,Key Account,Retained,-3.0,-3.0,3593.7,185.0,73185.0,0,0.258,0,0,Low Risk
+GATI,Compliant,0,1.0,Key Account,NCA,-1.0,-1.0,2878.0,315.0,41930.0,0,0.319,0,0,Medium Risk
+DELHIVERY,Non-Compliant,1,49.0,Key Account,Retained,10.0,10.0,20694.0,650.0,360195.0,0,0.241,0,0,Low Risk
+GATI,Compliant,0,300.0,Key Account,Retained,0.0,0.0,1233.0,100.0,35000.0,0,0.317,0,0,Medium Risk
+Unknown,Unknown,2,15.0,Non Key Account,Retained,0.0,0.0,1067.0,95.0,34240.0,1,0.877,1,1,High Risk
+SCORPION,Non-Compliant,1,61.0,Key Account,Retained,1.0,1.0,8746.44,950.0,319486.0,1,0.368,0,1,Medium Risk
+GATI,Compliant,0,91.0,Key Account,Retained,0.0,0.0,1565.0,150.0,25000.0,0,0.237,0,0,Low Risk
+SCORPION,Compliant,0,13.0,Non Key Account,Retained,-3.0,-3.0,1179.0,130.0,734531.0,0,0.574,1,0,Medium Risk
+GATI,Compliant,0,19.0,Key Account,Retained,0.0,0.0,4111.0,100.0,5000.0,1,0.231,0,1,Low Risk
+GATI,Non-Compliant,1,182.0,Non Key Account,Retained,2.0,2.0,742.0,66.0,142190.0,1,0.682,1,1,High Risk
+GATI,Compliant,0,264.0,Key Account,Retained,-1.0,-1.0,2419.0,320.0,130000.0,0,0.279,0,0,Low Risk
+DELHIVERY,Non-Compliant,1,10.0,Key Account,Retained,5.0,5.0,13340.0,280.0,432000.0,0,0.269,0,0,Low Risk
+SCORPION,Compliant,0,7.0,Key Account,NCA,-2.0,-2.0,3133.1,230.0,212400.0,0,0.455,0,0,Medium Risk
+GATI,Compliant,0,12.0,Key Account,Retained,-2.0,-2.0,3620.0,54.0,475000.0,1,0.222,0,1,Low Risk
+GATI,Compliant,0,1.0,Non Key Account,NCA,-3.0,-3.0,447.0,50.0,49560.0,1,0.645,1,1,High Risk
+GATI,Non-Compliant,1,10.0,Non Key Account,Unknown,1.0,6.0,2873.0,137.0,99013.0,0,0.509,1,0,Medium Risk
+SCORPION,Compliant,0,6.0,Key Account,NCA,-4.0,-4.0,617.4,40.0,10001.0,0,0.501,1,0,Medium Risk
+GATI,Compliant,0,4.0,Key Account,Unknown,0.0,0.0,2071.0,215.0,75000.0,0,0.156,0,0,Low Risk
+GATI,Non-Compliant,1,18.0,Non Key Account,Retained,2.0,2.0,623.2,30.0,10502.0,0,0.628,1,0,High Risk
+V-XPRESS,Non-Compliant,1,88.0,Key Account,Retained,4.0,4.0,4220.96,95.0,39996.0,1,0.678,1,1,High Risk
+DELHIVERY,Non-Compliant,1,1.0,Non Key Account,NCA,5.0,5.0,1584.0,100.0,30000.0,1,0.677,1,1,High Risk
+DELHIVERY,Non-Compliant,1,8.0,Non Key Account,Retained,3.0,3.0,639.0,40.0,15299.0,0,0.552,1,0,Medium Risk
+DELHIVERY,Compliant,0,15.0,Key Account,Retained,-3.0,-3.0,8124.0,500.0,276685.0,0,0.164,0,0,Low Risk
+GATI,Compliant,0,196.0,Non Key Account,Retained,0.0,0.0,585.0,30.0,45550.0,1,0.562,1,1,Medium Risk
+SCORPION,Non-Compliant,1,13.0,Non Key Account,Retained,6.0,6.0,868.0,10.0,45000.0,0,0.715,1,0,High Risk
+GATI,Non-Compliant,1,4.0,Non Key Account,Retained,1.0,1.0,537.0,25.0,11800.0,1,0.63,1,1,High Risk
+DELHIVERY,Non-Compliant,1,142.0,Key Account,Retained,2.0,2.0,960.48,100.0,23600.0,1,0.325,0,1,Medium Risk
+GATI,Non-Compliant,1,298.0,Key Account,Retained,2.0,2.0,2209.0,160.0,35000.0,0,0.449,0,0,Medium Risk
+GATI,Compliant,0,532.0,Key Account,Retained,-2.0,-2.0,1329.0,120.0,35000.0,0,0.425,0,0,Medium Risk
+V-XPRESS,Compliant,0,1.0,Non Key Account,Unknown,0.0,0.0,9231.15,1100.0,34259.0,0,0.588,1,0,Medium Risk
+DELHIVERY,Non-Compliant,1,2.0,Non Key Account,Retained,2.0,2.0,1222.0,66.0,20000.0,1,0.555,1,1,Medium Risk
+Unknown,Compliant,0,28.0,Key Account,Retained,0.0,0.0,2381.88,144.0,64638.0,1,0.379,0,1,Medium Risk
+GATI,Compliant,0,116.0,Key Account,Retained,-2.0,-2.0,1565.0,150.0,15000.0,0,0.257,0,0,Low Risk
+SCORPION,Non-Compliant,1,14.0,Key Account,Re-activated,2.0,2.0,636.0,20.0,15859.0,0,0.545,1,0,Medium Risk
+GATI,Compliant,0,95.0,Key Account,Retained,-1.0,-1.0,1861.05,170.0,43534.0,0,0.242,0,0,Low Risk
+GATI,Non-Compliant,1,48.0,Key Account,Retained,5.0,5.0,3621.0,35.0,9780.0,0,0.349,0,0,Medium Risk
+DELHIVERY,Compliant,0,10.0,Key Account,Retained,-1.0,-1.0,1090.0,135.0,10000.0,0,0.176,0,0,Low Risk
+DELHIVERY,Compliant,0,48.0,Key Account,Retained,-3.0,-3.0,1397.45,35.0,25300.0,0,0.207,0,0,Low Risk
+Unknown,Compliant,0,19.0,Non Key Account,Re-activated,0.0,0.0,2681.0,152.0,118000.0,1,0.725,1,1,High Risk
+GATI,Non-Compliant,1,25.0,Key Account,Retained,16.0,16.0,31653.05,920.0,1404000.0,1,0.212,0,1,Low Risk
+SCORPION,Non-Compliant,1,3.0,Non Key Account,NCA,8.0,8.0,665.0,25.0,34892.0,0,0.811,1,0,High Risk
+Unknown,Compliant,0,5.0,Non Key Account,Re-activated,-2.0,-2.0,2036.0,100.0,21525.0,1,0.741,1,1,High Risk
+GATI,Non-Compliant,1,4.0,Non Key Account,Retained,2.0,2.0,893.0,20.0,5912.0,0,0.626,1,0,High Risk
+GATI,Compliant,0,382.0,Key Account,Retained,0.0,0.0,3599.0,350.0,45000.0,0,0.323,0,0,Medium Risk
+Unknown,Compliant,0,43.0,Non Key Account,Retained,-2.0,-2.0,1335.0,62.0,82000.0,1,0.69,1,1,High Risk
+DELHIVERY,Non-Compliant,1,1.0,Non Key Account,NCA,4.0,4.0,5959.0,310.0,171724.0,1,0.666,1,1,High Risk
+GATI,Compliant,0,39.0,Non Key Account,Retained,-2.0,-2.0,912.0,75.0,51184.0,0,0.5,1,0,Medium Risk
+V-XPRESS,Non-Compliant,1,5.0,Key Account,NCA,4.0,4.0,5263.2,120.0,58905.0,0,0.773,1,0,High Risk
+DELHIVERY,Compliant,0,5.0,Non Key Account,Retained,0.0,0.0,643.0,35.0,34633.0,0,0.412,0,0,Medium Risk
+V-XPRESS,Non-Compliant,1,38.0,Key Account,Retained,8.0,8.0,1057.08,19.0,3925.0,1,0.627,1,1,High Risk
+DELHIVERY,Unknown,2,10.0,Key Account,Re-activated,0.0,0.0,946.0,50.0,41300.0,1,0.522,1,1,Medium Risk
+DELHIVERY,Compliant,0,288.0,Key Account,Retained,0.0,0.0,1849.5,155.0,69376.0,0,0.253,0,0,Low Risk
+DELHIVERY,Non-Compliant,1,2.0,Non Key Account,Unknown,1.0,2.0,775.2,60.0,8930.0,0,0.476,0,0,Medium Risk
+GATI,Compliant,0,1.0,Non Key Account,NCA,-2.0,-2.0,632.7,46.0,38997.0,1,0.64,1,1,High Risk
+GATI,Compliant,0,743.0,Key Account,Retained,-1.0,-1.0,516.0,49.0,33866.0,1,0.52,1,1,Medium Risk
+SCORPION,Compliant,0,3.0,Non Key Account,Retained,-1.0,-1.0,693.0,70.0,40950.0,1,0.605,1,1,High Risk
+GATI,Compliant,0,533.0,Key Account,Retained,-4.0,-4.0,1309.0,50.0,44367.0,0,0.452,0,0,Medium Risk
+DELHIVERY,Non-Compliant,1,32.0,Non Key Account,Retained,3.0,3.0,2088.0,50.0,32000.0,0,0.568,1,0,Medium Risk
+V-XPRESS,Compliant,0,3.0,Non Key Account,Re-activated,0.0,0.0,667.0,20.0,4800.0,0,0.822,1,0,High Risk
+DELHIVERY,Compliant,0,57.0,Key Account,Retained,-2.0,-2.0,2831.4,185.0,73185.0,0,0.192,0,0,Low Risk
+DELHIVERY,Compliant,0,26.0,Key Account,Retained,-8.0,-8.0,19622.25,420.0,648000.0,1,0.227,0,1,Low Risk
+DELHIVERY,Compliant,0,134.0,Key Account,Re-activated,-3.0,-3.0,4404.0,306.0,10004.0,1,0.272,0,1,Low Risk
+DELHIVERY,Compliant,0,2.0,Non Key Account,Retained,-1.0,-1.0,686.0,42.0,35800.0,1,0.417,0,1,Medium Risk
+V-XPRESS,Non-Compliant,1,39.0,Key Account,Retained,11.0,11.0,789.36,19.0,6542.0,1,0.604,1,1,High Risk
+GATI,Compliant,0,47.0,Key Account,Retained,-2.0,-2.0,617.0,28.0,1281504.0,0,0.191,0,0,Low Risk
+DELHIVERY,Compliant,0,6.0,Key Account,Retained,-1.0,-1.0,779.0,20.0,65100.0,0,0.183,0,0,Low Risk
+DELHIVERY,Compliant,0,9.0,Non Key Account,Retained,0.0,0.0,2640.0,289.0,202370.0,0,0.373,0,0,Medium Risk
+GATI,Non-Compliant,1,14.0,Non Key Account,Retained,2.0,2.0,623.2,30.0,468.0,0,0.627,1,0,High Risk
+DELHIVERY,Non-Compliant,1,152.0,Key Account,Retained,5.0,5.0,3542.4,220.0,79591.0,0,0.301,0,0,Medium Risk
+SCORPION,Non-Compliant,1,2.0,Non Key Account,Retained,1.0,1.0,1840.0,42.0,41716.0,0,0.742,1,0,High Risk
+GATI,Non-Compliant,1,797.0,Key Account,Retained,2.0,2.0,640.0,48.0,154627.0,1,0.67,1,1,High Risk
+V-XPRESS,Compliant,0,6.0,Non Key Account,Retained,0.0,0.0,6800.0,850.0,25966.0,0,0.689,1,0,High Risk
+Unknown,Unknown,2,8.0,Non Key Account,Re-activated,0.0,0.0,1377.0,80.0,11965.0,1,0.908,1,1,High Risk
+DELHIVERY,Non-Compliant,1,45.0,Key Account,Retained,1.0,1.0,2371.0,150.0,105000.0,0,0.29,0,0,Low Risk
+SCORPION,Compliant,0,25.0,Non Key Account,Retained,-2.0,-2.0,1059.0,120.0,151984.0,1,0.609,1,1,High Risk
+GATI,Compliant,0,2.0,Non Key Account,Retained,-4.0,-4.0,2868.0,350.0,507400.0,1,0.435,0,1,Medium Risk
+DELHIVERY,Non-Compliant,1,1.0,Key Account,NCA,2.0,2.0,1283.0,80.0,15000.0,0,0.418,0,0,Medium Risk
+GATI,Non-Compliant,1,449.0,Key Account,Retained,1.0,1.0,1220.0,107.0,533360.0,0,0.497,0,0,Medium Risk
+DELHIVERY,Compliant,0,85.0,Key Account,Retained,0.0,0.0,3176.1,185.0,73185.0,0,0.192,0,0,Low Risk
+DELHIVERY,Non-Compliant,1,66.0,Key Account,Retained,2.0,2.0,2444.4,185.0,73185.0,0,0.288,0,0,Low Risk
+DELHIVERY,Compliant,0,58.0,Non Key Account,Retained,-2.0,-2.0,1716.0,80.0,33618.0,0,0.449,0,0,Medium Risk
+V-XPRESS,Non-Compliant,1,37.0,Non Key Account,Retained,3.0,3.0,3040.0,320.0,186480.0,0,0.838,1,0,High Risk
+DELHIVERY,Compliant,0,102.0,Non Key Account,Retained,-3.0,-3.0,1133.0,50.0,46020.0,1,0.477,0,1,Medium Risk
+GATI,Non-Compliant,1,110.0,Non Key Account,Retained,3.0,3.0,1457.0,120.0,261000.0,0,0.635,1,0,High Risk
+GATI,Compliant,0,111.0,Key Account,Retained,0.0,0.0,1565.0,150.0,35000.0,0,0.243,0,0,Low Risk
+V-XPRESS,Non-Compliant,1,6.0,Non Key Account,Retained,6.0,6.0,1540.0,100.0,70517.0,0,0.837,1,0,High Risk
+Unknown,Non-Compliant,1,7.0,Key Account,Retained,10.0,10.0,1286.16,100.0,49000.0,1,0.455,0,1,Medium Risk
+GATI,Compliant,0,170.0,Key Account,Retained,-1.0,-1.0,712.0,60.0,5000.0,0,0.279,0,0,Low Risk
+SCORPION,Compliant,0,3.0,Key Account,Retained,-2.0,-2.0,2356.2,250.0,460790.0,0,0.287,0,0,Low Risk
+DELHIVERY,Non-Compliant,1,1.0,Non Key Account,NCA,7.0,7.0,643.0,26.0,30562.0,0,0.67,1,0,High Risk
+DELHIVERY,Compliant,0,136.0,Key Account,Re-activated,-2.0,-2.0,1162.0,37.0,292847.0,1,0.274,0,1,Low Risk
+GATI,Compliant,0,1.0,Non Key Account,NCA,-3.0,-3.0,5042.0,250.0,23600.0,1,0.64,1,1,High Risk
+DELHIVERY,Compliant,0,3.0,Non Key Account,NCA,0.0,0.0,4636.0,300.0,590000.0,0,0.51,1,0,Medium Risk
+GATI,Non-Compliant,1,58.0,Key Account,Retained,1.0,1.0,4680.0,410.0,45000.0,0,0.327,0,0,Medium Risk
+SCORPION,Unknown,2,3.0,Non Key Account,NCA,0.0,0.0,763.0,10.0,8425.0,1,0.915,1,1,High Risk
+DELHIVERY,Compliant,0,80.0,Non Key Account,Retained,0.0,0.0,726.0,40.0,40365.0,1,0.444,0,1,Medium Risk
+DELHIVERY,Compliant,0,12.0,Non Key Account,Retained,0.0,0.0,790.0,42.0,34350.0,0,0.415,0,0,Medium Risk
+SCORPION,Non-Compliant,1,1.0,Non Key Account,NCA,1.0,1.0,3074.0,275.0,23907.0,1,0.826,1,1,High Risk
+DELHIVERY,Compliant,0,8.0,Key Account,Retained,-2.0,-2.0,545.0,37.0,8024.0,0,0.188,0,0,Low Risk
+DELHIVERY,Non-Compliant,1,43.0,Key Account,Retained,4.0,4.0,1065.0,120.0,142080.0,1,0.267,0,1,Low Risk
+DELHIVERY,Compliant,0,1.0,Non Key Account,NCA,0.0,0.0,2088.0,10.0,10000.0,1,0.58,1,1,Medium Risk
+DELHIVERY,Compliant,0,41.0,Key Account,Retained,-2.0,-2.0,655.5,55.0,129709.0,0,0.191,0,0,Low Risk
+Unknown,Non-Compliant,1,2.0,Non Key Account,Retained,1.0,1.0,1099.0,125.0,146853.0,1,0.772,1,1,High Risk
+DELHIVERY,Non-Compliant,1,79.0,Key Account,Retained,1.0,1.0,1440.0,220.0,79591.0,0,0.289,0,0,Low Risk
+DELHIVERY,Compliant,0,2.0,Key Account,Re-activated,0.0,0.0,604.0,54.0,35987.0,0,0.225,0,0,Low Risk
+Unknown,Non-Compliant,1,670.0,Key Account,Retained,2.0,2.0,1254.0,150.0,228739.0,1,0.765,1,1,High Risk
+DELHIVERY,Compliant,0,29.0,Key Account,Retained,-2.0,-2.0,1603.8,185.0,73186.0,0,0.18,0,0,Low Risk
+DELHIVERY,Non-Compliant,1,2.0,Non Key Account,Unknown,2.0,7.0,1031.0,44.0,200.0,0,0.444,0,0,Medium Risk
+Unknown,Unknown,2,1.0,Non Key Account,NCA,0.0,0.0,2962.0,200.0,1262010.0,1,0.903,1,1,High Risk
+GATI,Non-Compliant,1,6.0,Non Key Account,Retained,1.0,1.0,4130.0,340.0,300000.0,0,0.582,1,0,Medium Risk
+GATI,Non-Compliant,1,471.0,Key Account,Retained,3.0,3.0,1230.0,120.0,35000.0,0,0.521,1,0,Medium Risk
+SCORPION,Non-Compliant,1,2.0,Non Key Account,NCA,2.0,2.0,700.0,15.0,31978.0,0,0.839,1,0,High Risk
+DELHIVERY,Compliant,0,21.0,Key Account,Retained,-1.0,-1.0,711.0,51.0,10856.0,1,0.186,0,1,Low Risk
+GATI,Non-Compliant,1,127.0,Non Key Account,Retained,4.0,4.0,1447.0,150.0,296000.0,0,0.628,1,0,High Risk
+SCORPION,Non-Compliant,1,10.0,Key Account,Retained,4.0,4.0,1731.0,180.0,48000.0,1,0.427,0,1,Medium Risk
+V-XPRESS,Compliant,0,1.0,Non Key Account,NCA,-1.0,-1.0,7115.0,800.0,264969.0,0,0.806,1,0,High Risk
+DELHIVERY,Compliant,0,5.0,Non Key Account,Retained,-2.0,-2.0,1515.0,50.0,186263.0,0,0.42,0,0,Medium Risk
+GATI,Compliant,0,1.0,Non Key Account,NCA,-4.0,-4.0,395.0,16.0,4249.0,1,0.66,1,1,High Risk
+DELHIVERY,Non-Compliant,1,24.0,Key Account,NCA,2.0,2.0,1005.0,70.0,46990.0,0,0.426,0,0,Medium Risk
+GATI,Non-Compliant,1,1.0,Non Key Account,NCA,3.0,3.0,1629.0,180.0,146993.0,1,0.727,1,1,High Risk
+DELHIVERY,Compliant,0,51.0,Key Account,Retained,-1.0,-1.0,1041.3,85.0,25000.0,0,0.192,0,0,Low Risk
+DELHIVERY,Unknown,2,334.0,Key Account,Retained,0.0,0.0,582.36,25.0,20619.0,1,0.592,1,1,Medium Risk
+Unknown,Non-Compliant,1,112.0,Key Account,Retained,2.0,2.0,856.52,55.0,169896.0,1,0.561,1,1,Medium Risk
+GATI,Compliant,0,10.0,Non Key Account,Retained,0.0,0.0,1329.0,160.0,3000000.0,0,0.287,0,0,Low Risk
+DELHIVERY,Compliant,0,9.0,Non Key Account,Retained,0.0,0.0,768.0,58.0,53281.0,0,0.409,0,0,Medium Risk
+Unknown,Non-Compliant,1,113.0,Key Account,Retained,11.0,11.0,793.96,50.0,10000.0,1,0.503,1,1,Medium Risk
+SCORPION,Compliant,0,2.0,Non Key Account,Retained,-4.0,-4.0,1748.0,42.0,15770.0,1,0.638,1,1,High Risk
+DELHIVERY,Compliant,0,4.0,Non Key Account,NCA,-2.0,-2.0,1297.0,91.0,16900.0,0,0.578,1,0,Medium Risk
+Unknown,Compliant,0,693.0,Key Account,Retained,0.0,0.0,1152.0,75.0,60500.0,1,0.674,1,1,High Risk
+GATI,Non-Compliant,1,613.0,Key Account,Retained,1.0,1.0,5075.0,500.0,35000.0,0,0.557,1,0,Medium Risk
+GATI,Non-Compliant,1,3.0,Non Key Account,Re-activated,1.0,1.0,776.0,62.0,132750.0,1,0.688,1,1,High Risk
+V-XPRESS,Compliant,0,21.0,Non Key Account,Re-activated,0.0,0.0,699.0,50.0,47058.0,1,0.823,1,1,High Risk
+GATI,Non-Compliant,1,9.0,Non Key Account,Retained,1.0,1.0,1071.0,120.0,58906.0,1,0.617,1,1,High Risk
+DELHIVERY,Compliant,0,12.0,Non Key Account,Retained,0.0,0.0,682.0,50.0,35000.0,0,0.413,0,0,Medium Risk
+DELHIVERY,Non-Compliant,1,7.0,Key Account,Retained,4.0,4.0,1140.0,80.0,49000.0,0,0.264,0,0,Low Risk
+DELHIVERY,Non-Compliant,1,1.0,Non Key Account,NCA,3.0,3.0,4822.0,194.0,462560.0,1,0.669,1,1,High Risk
+GATI,Compliant,0,4.0,Non Key Account,Unknown,-1.0,-2.0,4253.0,400.0,500000.0,1,0.346,0,1,Medium Risk
+DELHIVERY,Compliant,0,6.0,Non Key Account,Retained,0.0,0.0,1553.4,142.0,66080.0,0,0.398,0,0,Medium Risk
+Unknown,Compliant,0,108.0,Key Account,Retained,0.0,0.0,882.8,88.0,23600.0,1,0.417,0,1,Medium Risk
+GATI,Compliant,0,3.0,Key Account,NCA,-1.0,-1.0,4431.0,452.0,4580000.0,0,0.123,0,0,Low Risk
+GATI,Compliant,0,509.0,Key Account,Retained,-1.0,-1.0,1861.0,190.0,35000.0,0,0.399,0,0,Medium Risk
+DELHIVERY,Non-Compliant,1,2.0,Non Key Account,NCA,4.0,4.0,2713.0,245.0,237640.0,1,0.656,1,1,High Risk
+DELHIVERY,Compliant,0,4.0,Non Key Account,NCA,-1.0,-1.0,6830.0,400.0,744580.0,0,0.504,1,0,Medium Risk
+GATI,Non-Compliant,1,21.0,Non Key Account,Re-activated,6.0,6.0,598.0,40.0,16500.0,0,0.671,1,0,High Risk
+DELHIVERY,Compliant,0,45.0,Key Account,Retained,-3.0,-3.0,10492.0,430.0,107380.0,0,0.194,0,0,Low Risk
+GATI,Compliant,0,646.0,Key Account,Retained,0.0,0.0,3098.0,300.0,45000.0,0,0.44,0,0,Medium Risk
+GATI,Non-Compliant,1,84.0,Non Key Account,Retained,1.0,1.0,787.0,55.0,1575000.0,0,0.566,1,0,Medium Risk
+GATI,Compliant,0,750.0,Key Account,Retained,0.0,0.0,640.0,49.0,20000.0,1,0.517,1,1,Medium Risk
+DELHIVERY,Compliant,0,6.0,Non Key Account,Re-activated,-2.0,-2.0,1298.0,50.0,415640.0,1,0.482,0,1,Medium Risk
+GATI,Non-Compliant,1,193.0,Key Account,Retained,9.0,9.0,1280.0,50.0,20000.0,0,0.366,0,0,Medium Risk
+GATI,Unknown,2,1.0,Non Key Account,Unknown,0.0,0.0,2338.0,42.0,6200.0,1,0.716,1,1,High Risk
+V-XPRESS,Non-Compliant,1,50.0,Non Key Account,Retained,2.0,2.0,768.0,32.0,47200.0,0,0.867,1,0,High Risk
+GATI,Compliant,0,242.0,Key Account,Retained,-2.0,-2.0,4016.0,300.0,35000.0,0,0.292,0,0,Low Risk
+GATI,Compliant,0,378.0,Key Account,Retained,0.0,0.0,2605.0,250.0,45000.0,0,0.331,0,0,Medium Risk
+DELHIVERY,Compliant,0,2.0,Non Key Account,Retained,-1.0,-1.0,574.0,50.0,73247.0,1,0.413,0,1,Medium Risk
+GATI,Compliant,0,28.0,Non Key Account,Retained,-2.0,-2.0,715.0,49.0,41352.0,0,0.499,0,0,Medium Risk
+V-XPRESS,Unknown,2,85.0,Key Account,Retained,0.0,0.0,1948.56,80.0,112247.0,1,0.81,1,1,High Risk
+DELHIVERY,Non-Compliant,1,3.0,Key Account,Retained,1.0,1.0,1159.0,40.0,300000.0,0,0.274,0,0,Low Risk
+DELHIVERY,Non-Compliant,1,1.0,Non Key Account,NCA,1.0,1.0,1096.0,85.0,100000.0,0,0.699,1,0,High Risk
+GATI,Compliant,0,805.0,Key Account,Retained,-1.0,-1.0,640.0,48.0,19824.0,1,0.549,1,1,Medium Risk
+GATI,Compliant,0,14.0,Key Account,Unknown,0.0,-3.0,2751.0,300.0,195615.0,0,0.161,0,0,Low Risk
+DELHIVERY,Compliant,0,166.0,Key Account,Retained,0.0,0.0,3176.1,185.0,73185.0,0,0.215,0,0,Low Risk
+SCORPION,Compliant,0,44.0,Non Key Account,Retained,0.0,0.0,820.0,89.0,493431.0,0,0.585,1,0,Medium Risk
+GATI,Compliant,0,4.0,Non Key Account,Retained,0.0,0.0,848.0,70.0,15930.0,1,0.472,0,1,Medium Risk
+GATI,Compliant,0,41.0,Non Key Account,Retained,-2.0,-2.0,2052.0,190.0,140994.0,0,0.483,0,0,Medium Risk
+GATI,Non-Compliant,1,1.0,Non Key Account,NCA,4.0,4.0,684.0,58.0,12886.0,1,0.739,1,1,High Risk
+V-XPRESS,Non-Compliant,1,16.0,Non Key Account,Retained,2.0,2.0,816.0,42.0,71749.0,0,0.858,1,0,High Risk
+GATI,Compliant,0,1.0,Non Key Account,NCA,0.0,0.0,11852.2,1200.0,16200.0,1,0.499,0,1,Medium Risk
+GATI,Non-Compliant,1,1.0,Non Key Account,NCA,1.0,1.0,1909.0,250.0,30000.0,1,0.736,1,1,High Risk
+GATI,Non-Compliant,1,2.0,Non Key Account,NCA,2.0,2.0,1230.0,15.0,11150.0,1,0.759,1,1,High Risk
+DELHIVERY,Non-Compliant,1,1.0,Non Key Account,NCA,1.0,1.0,3000.0,90.0,43000.0,1,0.711,1,1,High Risk
+DELHIVERY,Compliant,0,360.0,Key Account,Retained,0.0,0.0,2081.96,155.0,69376.0,1,0.279,0,1,Low Risk
+OXYZEN,Non-Compliant,1,1.0,Non Key Account,Unknown,1.0,3.0,1234.05,177.0,161905.0,1,0.571,1,1,Medium Risk
+GATI,Compliant,0,23.0,Non Key Account,Retained,-1.0,-1.0,498.0,40.0,36951.0,0,0.49,0,0,Medium Risk
+GATI,Compliant,0,25.0,Non Key Account,Re-activated,-1.0,-1.0,715.0,5.0,1624.0,1,0.578,1,1,Medium Risk
+GATI,Compliant,0,251.0,Key Account,Retained,-5.0,-5.0,925.0,110.0,15000.0,0,0.329,0,0,Medium Risk
+GATI,Compliant,0,3.0,Non Key Account,Unknown,-1.0,-2.0,4885.0,500.0,306800.0,1,0.345,0,1,Medium Risk
+SCORPION,Non-Compliant,1,9.0,Key Account,NCA,2.0,2.0,842.4,45.0,18514.0,0,0.616,1,0,High Risk
+DELHIVERY,Compliant,0,2.0,Non Key Account,NCA,-1.0,-1.0,1283.0,100.0,16520.0,1,0.568,1,1,Medium Risk
+DELHIVERY,Compliant,0,1.0,Non Key Account,NCA,-3.0,-3.0,18.0,8.0,5455.0,0,0.591,1,0,Medium Risk
+SCORPION,Non-Compliant,1,22.0,Key Account,Retained,10.0,10.0,1951.2,70.0,23600.0,0,0.409,0,0,Medium Risk
+DELHIVERY,Unknown,2,387.0,Key Account,Retained,0.0,0.0,2081.96,155.0,69376.0,1,0.599,1,1,Medium Risk
+SCORPION,Non-Compliant,1,49.0,Non Key Account,Retained,3.0,3.0,698.0,52.0,25775.0,0,0.741,1,0,High Risk
+Unknown,Non-Compliant,1,158.0,Non Key Account,Retained,2.0,2.0,737.2,55.0,100600.0,1,0.82,1,1,High Risk
+DELHIVERY,Compliant,0,27.0,Key Account,Retained,-1.0,-1.0,1233.0,44.0,75892.0,0,0.188,0,0,Low Risk
+SCORPION,Non-Compliant,1,14.0,Non Key Account,Retained,5.0,5.0,513.9,45.0,9000.0,0,0.717,1,0,High Risk
+GATI,Non-Compliant,1,1.0,Non Key Account,NCA,2.0,2.0,6309.0,228.0,54723.0,1,0.752,1,1,High Risk
+GATI,Non-Compliant,1,13.0,Non Key Account,Retained,1.0,1.0,693.0,40.0,2000.0,1,0.632,1,1,High Risk
+DELHIVERY,Compliant,0,2.0,Non Key Account,Unknown,-1.0,-3.0,1377.0,45.0,24999.0,0,0.36,0,0,Medium Risk
+SCORPION,Non-Compliant,1,5.0,Non Key Account,NCA,4.0,4.0,5793.7,139.0,502026.0,1,0.819,1,1,High Risk
+SCORPION,Non-Compliant,1,39.0,Non Key Account,Retained,1.0,1.0,2265.0,90.0,627295.0,0,0.722,1,0,High Risk
+GATI,Unknown,2,778.0,Key Account,Retained,0.0,0.0,1122.0,99.0,93810.0,1,0.798,1,1,High Risk
+DELHIVERY,Compliant,0,239.0,Key Account,Retained,-7.0,-7.0,2321.1,185.0,73185.0,0,0.276,0,0,Low Risk
+Unknown,Non-Compliant,1,20.0,Non Key Account,Re-activated,8.0,8.0,1802.0,141.0,395064.0,1,0.784,1,1,High Risk
+GATI,Non-Compliant,1,38.0,Key Account,Retained,1.0,1.0,4093.0,535.0,925184.0,0,0.254,0,0,Low Risk
+GATI,Non-Compliant,1,4.0,Non Key Account,Re-activated,1.0,1.0,2083.0,50.0,41536.0,0,0.702,1,0,High Risk
+GATI,Non-Compliant,1,830.0,Key Account,Retained,2.0,2.0,659.0,10.0,1512000.0,1,0.61,1,1,High Risk
+DELHIVERY,Compliant,0,50.0,Non Key Account,Retained,-3.0,-3.0,3172.0,160.0,95720.0,1,0.444,0,1,Medium Risk
+DELHIVERY,Compliant,0,191.0,Key Account,Retained,-7.0,-7.0,3294.0,155.0,69376.0,0,0.267,0,0,Low Risk
+DELHIVERY,Compliant,0,46.0,Key Account,Retained,0.0,0.0,6865.0,340.0,172516.0,0,0.174,0,0,Low Risk
+GATI,Compliant,0,28.0,Non Key Account,Retained,-3.0,-3.0,1418.0,50.0,58150.0,0,0.51,1,0,Medium Risk
+GATI,Non-Compliant,1,256.0,Key Account,Retained,2.0,2.0,2039.0,200.0,45000.0,0,0.422,0,0,Medium Risk
+V-XPRESS,Non-Compliant,1,42.0,Key Account,Retained,2.0,2.0,4486.0,110.0,47861.0,0,0.672,1,0,High Risk
+SCORPION,Non-Compliant,1,1.0,Non Key Account,NCA,7.0,7.0,3243.0,150.0,25000.0,1,0.812,1,1,High Risk
+GATI,Non-Compliant,1,193.0,Non Key Account,Retained,1.0,1.0,3670.0,408.0,748300.0,1,0.622,1,1,High Risk
+SCORPION,Non-Compliant,1,17.0,Key Account,Retained,6.0,6.0,1800.25,67.0,20000.0,0,0.436,0,0,Medium Risk
+V-TRANS,Compliant,0,2.0,Non Key Account,Retained,0.0,0.0,1159.0,349.0,97586.0,0,0.672,1,0,High Risk
+GATI,Compliant,0,30.0,Key Account,NCA,-4.0,-4.0,2854.0,36.0,10000.0,0,0.397,0,0,Medium Risk
+DELHIVERY,Compliant,0,45.0,Key Account,Retained,-4.0,-4.0,3639.6,185.0,73186.0,0,0.201,0,0,Low Risk
+GATI,Compliant,0,185.0,Key Account,Retained,-2.0,-2.0,838.0,80.0,10000.0,0,0.288,0,0,Low Risk
+GATI,Compliant,0,258.0,Key Account,Retained,-4.0,-4.0,1692.0,140.0,529230.0,0,0.296,0,0,Low Risk
+SCORPION,Non-Compliant,1,1.0,Non Key Account,NCA,4.0,4.0,571.0,40.0,15680.0,1,0.828,1,1,High Risk
+SCORPION,Unknown,2,9.0,Non Key Account,Retained,0.0,0.0,559.8,25.0,10080.0,1,0.851,1,1,High Risk
+GATI,Non-Compliant,1,568.0,Key Account,Retained,4.0,4.0,2461.0,250.0,15000.0,0,0.543,1,0,Medium Risk
+DELHIVERY,Compliant,0,34.0,Key Account,Retained,0.0,0.0,1438.0,27.0,579295.0,0,0.169,0,0,Low Risk
+GATI,Non-Compliant,1,51.0,Non Key Account,Retained,2.0,2.0,2433.0,151.0,35912.0,0,0.631,1,0,High Risk
+GATI,Compliant,0,802.0,Key Account,Retained,-1.0,-1.0,729.0,59.0,135936.0,1,0.539,1,1,Medium Risk
+DELHIVERY,Compliant,0,14.0,Non Key Account,Retained,-3.0,-3.0,1649.0,154.0,25669.0,1,0.425,0,1,Medium Risk
+DELHIVERY,Non-Compliant,1,22.0,Non Key Account,Retained,14.0,14.0,2098.0,100.0,44200.0,1,0.47,0,1,Medium Risk
+GATI,Compliant,0,6.0,Non Key Account,Retained,-3.0,-3.0,1328.0,50.0,25341.0,1,0.501,1,1,Medium Risk
+Unknown,Non-Compliant,1,13.0,Non Key Account,Retained,2.0,2.0,1231.0,142.0,18076.0,1,0.774,1,1,High Risk
+GATI,Compliant,0,88.0,Non Key Account,Retained,0.0,0.0,557.0,35.0,77300.0,0,0.51,1,0,Medium Risk
+GATI,Non-Compliant,1,4.0,Non Key Account,Retained,2.0,2.0,680.0,45.0,19611.0,0,0.62,1,0,High Risk
+GATI,Non-Compliant,1,55.0,Non Key Account,Retained,1.0,1.0,1053.0,95.0,58711.0,0,0.64,1,0,High Risk
+GATI,Compliant,0,299.0,Key Account,Retained,0.0,0.0,996.0,120.0,25000.0,0,0.313,0,0,Medium Risk
+DELHIVERY,Compliant,0,3.0,Non Key Account,Re-activated,0.0,0.0,2344.0,54.0,30000.0,1,0.495,0,1,Medium Risk
+SCORPION,Non-Compliant,1,3.0,Non Key Account,Re-activated,5.0,5.0,2456.0,300.0,72570.0,1,0.747,1,1,High Risk
+GATI,Non-Compliant,1,68.0,Non Key Account,Retained,1.0,1.0,529.15,40.0,94400.0,0,0.649,1,0,High Risk
+GATI,Non-Compliant,1,13.0,Key Account,Retained,25.0,25.0,1521.9,50.0,5314.0,0,0.205,0,0,Low Risk
+V-XPRESS,Non-Compliant,1,41.0,Key Account,Retained,9.0,9.0,789.36,19.0,8597.0,1,0.619,1,1,High Risk
+DELHIVERY,Unknown,2,19.0,Key Account,Retained,0.0,0.0,828.0,30.0,28084.0,1,0.451,0,1,Medium Risk
+GATI,Compliant,0,337.0,Key Account,Retained,0.0,0.0,702.0,75.0,16983.0,0,0.333,0,0,Medium Risk
+GATI,Compliant,0,25.0,Non Key Account,Retained,-2.0,-2.0,1046.0,85.0,63668.0,0,0.492,0,0,Medium Risk
+DELHIVERY,Compliant,0,18.0,Non Key Account,Re-activated,-3.0,-3.0,1658.0,35.0,14449.0,0,0.526,1,0,Medium Risk
+GATI,Compliant,0,97.0,Key Account,Retained,-1.0,-1.0,1186.0,120.0,40000.0,0,0.246,0,0,Low Risk
+DELHIVERY,Compliant,0,1.0,Non Key Account,NCA,0.0,0.0,618.0,40.0,9794.0,1,0.566,1,1,Medium Risk
+DELHIVERY,Compliant,0,15.0,Non Key Account,Retained,-3.0,-3.0,1633.0,40.0,15299.0,1,0.445,0,1,Medium Risk
+DELHIVERY,Compliant,0,13.0,Key Account,Retained,-2.0,-2.0,633.0,45.0,10000.0,0,0.189,0,0,Low Risk
+GATI,Compliant,0,208.0,Key Account,Retained,-2.0,-2.0,696.0,30.0,1218927.0,0,0.242,0,0,Low Risk
+SCORPION,Non-Compliant,1,11.0,Non Key Account,Re-activated,6.0,6.0,31943.0,800.0,2058993.0,1,0.711,1,1,High Risk
+DELHIVERY,Non-Compliant,1,4.0,Non Key Account,Retained,3.0,3.0,500.0,18.0,5805.0,0,0.553,1,0,Medium Risk
+SCORPION,Compliant,0,1.0,Non Key Account,NCA,-1.0,-1.0,1336.0,300.0,69030.0,0,0.711,1,0,High Risk
+Unknown,Unknown,2,170.0,Non Key Account,Retained,0.0,0.0,934.0,105.0,201100.0,1,0.9,1,1,High Risk
+DELHIVERY,Compliant,0,12.0,Non Key Account,Retained,-2.0,-2.0,787.0,30.0,9575.0,1,0.433,0,1,Medium Risk
+GATI,Compliant,0,2.0,Non Key Account,Re-activated,0.0,0.0,715.0,20.0,16632.0,1,0.557,1,1,Medium Risk
+DELHIVERY,Compliant,0,2.0,Non Key Account,NCA,-2.0,-2.0,1155.0,108.0,49437.0,0,0.571,1,0,Medium Risk
+DELHIVERY,Compliant,0,22.0,Key Account,Retained,-3.0,-3.0,1427.4,95.0,39101.0,0,0.193,0,0,Low Risk
+GATI,Compliant,0,180.0,Non Key Account,Retained,-1.0,-1.0,672.0,55.0,99000.0,1,0.555,1,1,Medium Risk
+DELHIVERY,Compliant,0,143.0,Key Account,Retained,0.0,0.0,2313.9,185.0,73185.0,0,0.205,0,0,Low Risk
+GATI,Compliant,1,1.0,Non Key Account,Unknown,1.0,-1.0,6946.4,308.0,1403600.0,1,0.539,1,1,Medium Risk
+DELHIVERY,Non-Compliant,1,14.0,Key Account,Retained,1.0,1.0,1774.6,135.0,48136.0,0,0.281,0,0,Low Risk
+GATI,Non-Compliant,1,21.0,Key Account,Re-activated,3.0,3.0,1418.0,20.0,15859.0,0,0.416,0,0,Medium Risk
+GATI,Compliant,0,153.0,Key Account,Retained,-2.0,-2.0,759.0,65.0,15000.0,0,0.278,0,0,Low Risk
+GATI,Non-Compliant,1,23.0,Key Account,Re-activated,3.0,3.0,1418.0,20.0,15859.0,0,0.417,0,0,Medium Risk
+GATI,Compliant,0,737.0,Key Account,Retained,-1.0,-1.0,640.0,49.0,30090.0,1,0.518,1,1,Medium Risk
+Unknown,Non-Compliant,1,12.0,Key Account,Retained,2.0,2.0,765.0,70.0,14868.0,1,0.523,1,1,Medium Risk
+SCORPION,Non-Compliant,1,13.0,Key Account,Re-activated,2.0,2.0,636.0,20.0,15859.0,0,0.545,1,0,Medium Risk
+GATI,Compliant,0,18.0,Non Key Account,Retained,0.0,0.0,827.0,60.0,58233.0,0,0.477,0,0,Medium Risk
+Unknown,Non-Compliant,1,2.0,Non Key Account,NCA,4.0,4.0,877.0,25.0,20000.0,1,0.864,1,1,High Risk
+DELHIVERY,Compliant,0,83.0,Non Key Account,Retained,-2.0,-2.0,1145.0,50.0,44840.0,1,0.461,0,1,Medium Risk
+SCORPION,Non-Compliant,1,36.0,Key Account,Retained,1.0,1.0,3445.2,521.0,300000.0,0,0.399,0,0,Medium Risk
+Unknown,Non-Compliant,1,316.0,Key Account,Retained,18.0,18.0,2220.88,195.0,56640.0,1,0.522,1,1,Medium Risk
+DELHIVERY,Compliant,0,13.0,Key Account,Retained,-1.0,-1.0,718.0,52.0,48000.0,0,0.183,0,0,Low Risk

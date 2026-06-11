@@ -1,0 +1,31 @@
+{
+  "LSP name": {
+    "0": "DELHIVERY",
+    "1": "GATI",
+    "2": "OXYZEN",
+    "3": "SCORPION",
+    "4": "Unknown",
+    "5": "V-TRANS",
+    "6": "V-XPRESS"
+  },
+  "Overall SLA Compliance": {
+    "0": "Compliant",
+    "1": "Non-Compliant",
+    "2": "Unknown"
+  },
+  "Pick Up Compliance": {
+    "0": "Compliant",
+    "1": "Non-Compliant",
+    "2": "Unknown"
+  },
+  "Key Accounts": {
+    "0": "Key Account",
+    "1": "Non Key Account"
+  },
+  "Customer Status for the month": {
+    "0": "NCA",
+    "1": "Re-activated",
+    "2": "Retained",
+    "3": "Unknown"
+  }
+}

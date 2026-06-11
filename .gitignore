@@ -1,0 +1,6 @@
+data/July_Data_Analysis.xlsx
+__pycache__/
+.ipynb_checkpoints/
+*.pkl
+*.bin
+AppData/
